@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Index
-# permalink: /in/
+# title: About
 ---
 
 
-test
+About me ...
