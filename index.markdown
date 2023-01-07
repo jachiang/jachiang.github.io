@@ -12,7 +12,7 @@ I am a third and final year PhD candidate in Computer Science at the Technical U
 
 I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-Lafuente](http://www.imm.dtu.dk/~albl/), and the Cryptography group of IT University of Copenhagen, advised by [Bernardo David](http://www.bmdavid.com/). I have also had the fortune to be advised by [Massimo Bartoletti](https://tcs.unica.it/members/bart) (UniCa) and [Ittay Eyal](https://webee.technion.ac.il/people/ittay/) (Technion).
 
-Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland ([Eturnity](https://eturnity.com/en/), [Siroop](https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop)) and contributed to open-source libraries implementing the original Bitcoin protocol. 
+Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland ([Eturnity](https://eturnity.com/en/), [Siroop](https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop)) and contributed to open-source libraries implementing the original Bitcoin protocol. 
 
 ## Research Interests 
 
@@ -20,10 +20,10 @@ Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pas
 
 I am interested in achieving a universal notion of privacy-preserving smart contracts.
 
-During my PhD, I studied a class of smart contract applications called Decentralized Finance (DeFi) and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. 
+During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. 
 
-In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input privacy and even general, privacy-preserving smart contracts in the static corruption setting. I am interested in investigating universally expressive, scalable, privacy-preserving smart contracts
-that are secure against adaptive adversaries with a corruption budget applicable 
+In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input privacy and even general, privacy-preserving smart contracts in the static corruption setting. I am interested in investigating universally expressive, privacy-preserving smart contracts
+that scale and are secure against adaptive adversaries with a corruption budget applicable 
 across all online internet participants.
 
 
