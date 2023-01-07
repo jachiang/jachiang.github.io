@@ -14,7 +14,7 @@ I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-La
 
 Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland ([Eturnity](https://eturnity.com/en/), [Siroop](https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop)) and contributed to open-source libraries implementing the original Bitcoin protocol. 
 
-## Research Interests 
+# Research Interests
 
 [Publications](./work) / [Google Scholar](https://scholar.google.com/citations?hl=en&sortby=pubdate) / [DBLP](https://dblp.uni-trier.de/pid/282/1574.html)
 
@@ -28,7 +28,7 @@ across all online internet participants.
 
 
 
-## Academic Service
+# Academic Service
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
