@@ -30,7 +30,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: digi_james
 github_username:  jachiang
 
-base-font-size: 14
 
 # Build settings
 theme: minima
