@@ -36,14 +36,18 @@ across all online internet participants.
 
 <div style = "padding:0px 0px 15px 0px">
 <u>Eagle: Efficient Privacy Preserving Smart Contracts</u> <br>
-&ensp; Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-&ensp; Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)
+<div style = "padding:0px 0px 0px 10px">
+  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
+  Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)
+</div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u>FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security</u> <br>
-&ensp; James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
-&ensp; Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>)
+<div style = "padding:0px 0px 0px 10px">
+  James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
+  Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>)
+</div>
 </div>
 
 
@@ -51,44 +55,53 @@ across all online internet participants.
 
 <div style = "padding:0px 0px 15px 0px">
 <u>Maximizing Extractable Value from Automated Market Makers</u> <br>
-&ensp; Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-&ensp; International Conference on Financial Cryptography and Data Security, 2022 (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
+<div style = "padding:0px 0px 0px 10px">
+  Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
+  International Conference on Financial Cryptography and Data Security, 2022 (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
+</div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u>SoK: Mitigation of Front-running in Decentralized Finance</u> <br>
-&ensp; Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, <br>
-&ensp; Lorenzo Gentile <br>
-&ensp; 2nd Workshop on Decentralized Finance, FC 2022 (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)
+<div style = "padding:0px 0px 0px 10px">
+  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
+  2nd Workshop on Decentralized Finance, FC 2022 (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)
+</div>
 </div>
 
 
 <div style = "padding:0px 0px 15px 0px">
 <u>Formal analysis of lending pools in decentralized finance</u> <br>
-&ensp; Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente, <br>
-&ensp; Massimiliano Mirelli, Andrea Vandin <br>
-&ensp; International Symposium on Leveraging Applications of Formal Methods, 2022 (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
+<div style = "padding:0px 0px 0px 10px">
+Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente, Massimiliano Mirelli, Andrea Vandin <br>
+International Symposium on Leveraging Applications of Formal Methods, 2022 (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
+</div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u>A theory of Automated Market Makers in DeFi</u> <br>
-&ensp; Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-&ensp; Logical Methods in Computer Science, Volume 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
-&ensp; Coordination Models and Languages, 2021 (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
+<div style = "padding:0px 0px 0px 10px">
+  Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
+  Logical Methods in Computer Science, Volume 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
+  Coordination Models and Languages, 2021 (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
+</div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u> SoK: Lending Pools in Decentralized Finance</u> <br>
-&ensp; Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-&ensp; Fifth Workshop on Trusted Smart Contracts, FC 2021 (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+<div style = "padding:0px 0px 0px 10px">
+  Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
+  Fifth Workshop on Trusted Smart Contracts, FC 2021 (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+</div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <br>
-&ensp; James Hsin-yu Chiang <br>
-&ensp; MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021 (<a href="https://doi.org/10.21428/58320208.ec1e7cd2">doi</a>)
+<div style = "padding:0px 0px 0px 10px">
+  James Hsin-yu Chiang <br>
+  MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021 (<a href="https://doi.org/10.21428/58320208.ec1e7cd2">doi</a>)
 </div>
-
+</div>
 
 # Academic Service
 
