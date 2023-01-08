@@ -99,7 +99,7 @@ International Symposium on Leveraging Applications of Formal Methods, 2022 (<a h
 <u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang <br>
-  MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021 (<a href="https://doi.org/10.21428/58320208.ec1e7cd2">doi</a>)
+  MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021 (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
 </div>
 </div>
 
