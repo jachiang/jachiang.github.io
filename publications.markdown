@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Publications
 permalink: /work/
@@ -6,4 +6,4 @@ permalink: /work/
 
 # Publications
 
-...
+... -->
