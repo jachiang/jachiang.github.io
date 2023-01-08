@@ -30,37 +30,28 @@ across all online internet participants.
 
 # Academic Service
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:0px 0px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;
-  overflow:hidden;padding:0px 0px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-zv4m">
-    <em>Blockchain Workshops</em> <br>
-    <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), PC<br>
-    <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), PC <br>
-    <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22), PC <br>
-    <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22), PC
-    </td>
-    <td class="tg-zv4m">
-    <em>Cryptography & Security</em> <br>
-    Eurocrypt'22, Subreviewer <br>
-    Asiacrypt'22,  Subreviewer <br>
-    CCS'22, Subreviewer     
-    </td>
-    <td class="tg-zv4m">
-    <em>Formal Methods</em> <br>
-    WRLA'22, Subreviewer <br>
-    FM'21, Subreviewer <br>
-    TACAS'21, Subreviewer <br>
-    JLAMP, Vol. 121, Subreviewer
-    </td>
-  </tr>
-</thead>
-</table>
+<div style = "padding:0px 0px 5px 0px">
+<em>PC: Program Committee</em> , <em>SR: Subreviewer</em>
+</div>
+<div style = "width:190px; float:left; padding:0px 0px 5px 0px">
+  <u>Blockchain Workshops</u> <br>
+  <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
+  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), <em>PC</em> <br>
+  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22), <em>PC</em> <br>
+  <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22), <em>PC</em>
+</div>
+
+<div style = "width:180px;  float:left;  padding:0px 0px 5px 0px">
+  <u>Cryptography & Security</u> <br>
+  Eurocrypt'22, <em>SR</em> <br>
+  Asiacrypt'22, <em>SR</em> <br>
+  CCS'22, <em>SR</em>   
+</div>
+
+<div style = "width:190px;  float:left; padding:0px">
+  <u>Formal Methods</u> <br>
+  WRLA'22, <em>SR</em> <br>
+  FM'21, <em>SR</em> <br>
+  TACAS'21, <em>SR</em> <br>
+  JLAMP, Vol. 121, <em>SR</em>
+</div>
