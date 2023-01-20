@@ -35,14 +35,6 @@ across all online internet participants.
 **Manuscripts**
 
 <div style = "padding:0px 0px 15px 0px">
-<u>Eagle: Efficient Privacy Preserving Smart Contracts</u> <br>
-<div style = "padding:0px 0px 0px 10px">
-  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-  Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)
-</div>
-</div>
-
-<div style = "padding:0px 0px 15px 0px">
 <u>FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security</u> <br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
@@ -52,6 +44,14 @@ across all online internet participants.
 
 
 **Peer-reviewed**
+
+<div style = "padding:0px 0px 15px 0px">
+<u>Eagle: Efficient Privacy Preserving Smart Contracts</u> <br>
+<div style = "padding:0px 0px 0px 10px">
+  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
+  International Conference on Financial Cryptography and Data Security, 2023 (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)
+</div>
+</div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u>Maximizing Extractable Value from Automated Market Makers</u> <br>
