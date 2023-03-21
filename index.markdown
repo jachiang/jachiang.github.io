@@ -24,7 +24,7 @@ Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pas
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&sortby=pubdate) / [DBLP](https://dblp.uni-trier.de/pid/282/1574.html)
 
-I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols applied to all domains.
+I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
 
 During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. 
 
