@@ -14,7 +14,7 @@ layout: page
 [Linkedin](https://www.linkedin.com/in/jameshsinyuchiang)
 
 
-I am a third and final year PhD candidate in Computer Science at the Technical University of Denmark (DTU) and will be defending my thesis in June 2023. 
+I am a third and final year PhD candidate in Computer Science at the Technical University of Denmark (DTU). I hold a BSc in Mechanical Engineering from the University of California, Los Angeles. 
 
 I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-Lafuente](http://www.imm.dtu.dk/~albl/), and the Cryptography group of IT University of Copenhagen, advised by [Bernardo David](http://www.bmdavid.com/). I have also had the fortune to be advised by [Massimo Bartoletti](https://tcs.unica.it/members/bart) (UniCa) and [Ittay Eyal](https://webee.technion.ac.il/people/ittay/) (Technion).
 
