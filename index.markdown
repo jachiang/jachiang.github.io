@@ -126,8 +126,8 @@ International Symposium on Leveraging Applications of Formal Methods, 2022 (<a h
 
 <div style = "width:190px; float:left; padding:0px 0px 5px 0px">
   <u>Blockchain Workshops</u> <br>
-    <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
-
+  <a href="https://defi.security/">DeFi'23</a> (CCS'23), <em>PC</em> <br>
+  <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
   <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
   <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), <em>PC</em> <br>
   <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22), <em>PC</em> <br>
