@@ -158,6 +158,6 @@ International Symposium on Leveraging Applications of Formal Methods, 2022 (<a h
 <div style = "display:inline-block; padding:0px 0px 5px 0px">
 Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
 
-A <a href="https://voskuil.org/cryptoeconomics/">book</a> on cryptoeconomics which I contributed to.
+I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
 
 </div>
