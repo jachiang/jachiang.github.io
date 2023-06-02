@@ -14,13 +14,13 @@ layout: page
 [Linkedin](https://www.linkedin.com/in/jameshsinyuchiang)
 
 
-# About Myself
+# About Me
 
-I am a third and final year PhD candidate in Computer Science at the Technical University of Denmark (DTU). I hold a BSc in Mechanical Engineering from the University of California, Los Angeles. 
+I am a PostDoc researcher at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/). I will defend my PhD at the Technical University of Denmark (DTU) and hold a BSc from the University of California, Los Angeles. 
 
-I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-Lafuente](http://www.imm.dtu.dk/~albl/), and the Cryptography group of IT University of Copenhagen, advised by [Bernardo David](http://www.bmdavid.com/). I have also had the fortune to be advised by [Massimo Bartoletti](https://tcs.unica.it/members/bart) (UniCa) and [Ittay Eyal](https://webee.technion.ac.il/people/ittay/) (Technion).
+<!-- I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-Lafuente](http://www.imm.dtu.dk/~albl/), and the Cryptography group of IT University of Copenhagen, advised by [Bernardo David](http://www.bmdavid.com/). I have also had the fortune to be advised by [Massimo Bartoletti](https://tcs.unica.it/members/bart) (UniCa) and [Ittay Eyal](https://webee.technion.ac.il/people/ittay/) (Technion). -->
 
-Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland ([Eturnity](https://eturnity.com/en/), [Siroop](https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop)) and contributed to open-source libraries implementing the original Bitcoin protocol. 
+Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland ([Eturnity](https://eturnity.com/en/), [Siroop](https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop)) and contributed to open-source libraries implementing the original Bitcoin protocol. 
 
 # Research Interests
 
@@ -28,13 +28,58 @@ Prior to my PhD, I designed flight hardware for Mars missions at JPL NASA in Pas
 
 I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
 
-During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. 
-
-In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input privacy and even general, privacy-preserving smart contracts in the static corruption setting. I am interested in investigating universally expressive, privacy-preserving smart contracts
+During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input privacy and even general, privacy-preserving smart contracts in the static corruption setting. 
+<!-- I am interested in investigating universally expressive, privacy-preserving smart contracts
 that scale and are secure against adaptive adversaries with a corruption budget applicable 
-across all online internet participants.
+across all online internet participants. -->
 
-# Research Output
+# Academic Service
+
+<div style = "padding:0px 0px 5px 0px">
+<em>PC: Program Committee</em> , <em>SR: Subreviewer</em>
+</div>
+
+<!-- Div containing floating divs ... -->
+<div style = "display:inline-block; padding:0px 0px 5px 0px">
+
+<div style = "width:190px; float:left; padding:0px 0px 5px 0px">
+  <u>Blockchain Workshops</u> <br>
+  <a href="https://defi.security/">DeFi'23</a> (CCS'23), <em>PC</em> <br>
+  <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
+  <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
+  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), <em>PC</em> <br>
+  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22), <em>PC</em> <br>
+  <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22), <em>PC</em>
+</div>
+
+<div style = "width:180px;  float:left;  padding:0px 0px 5px 0px">
+  <u>Cryptography & Security</u> <br>
+  Eurocrypt'22, <em>SR</em> <br>
+  Asiacrypt'22, <em>SR</em> <br>
+  CCS'22, <em>SR</em>   
+</div>
+
+<div style = "width:190px;  float:left; padding:0px">
+  <u>Formal Methods</u> <br>
+  WRLA'22, <em>SR</em> <br>
+  FM'21, <em>SR</em> <br>
+  TACAS'21, <em>SR</em> <br>
+  JLAMP, Vol. 121, <em>SR</em>
+</div> 
+
+</div>
+
+
+
+# Misc
+<div style = "display:inline-block; padding:0px 0px 20px 0px">
+Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
+
+I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
+</div>
+
+
+# Research Manuscripts
 
 **Under submission**
 
@@ -115,49 +160,3 @@ International Symposium on Leveraging Applications of Formal Methods, 2022 (<a h
 </div>
 </div>
 
-# Academic Service
-
-<div style = "padding:0px 0px 5px 0px">
-<em>PC: Program Committee</em> , <em>SR: Subreviewer</em>
-</div>
-
-<!-- Div containing floating divs ... -->
-<div style = "display:inline-block; padding:0px 0px 5px 0px">
-
-<div style = "width:190px; float:left; padding:0px 0px 5px 0px">
-  <u>Blockchain Workshops</u> <br>
-  <a href="https://defi.security/">DeFi'23</a> (CCS'23), <em>PC</em> <br>
-  <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
-  <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
-  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), <em>PC</em> <br>
-  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22), <em>PC</em> <br>
-  <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22), <em>PC</em>
-</div>
-
-<div style = "width:180px;  float:left;  padding:0px 0px 5px 0px">
-  <u>Cryptography & Security</u> <br>
-  Eurocrypt'22, <em>SR</em> <br>
-  Asiacrypt'22, <em>SR</em> <br>
-  CCS'22, <em>SR</em>   
-</div>
-
-<div style = "width:190px;  float:left; padding:0px">
-  <u>Formal Methods</u> <br>
-  WRLA'22, <em>SR</em> <br>
-  FM'21, <em>SR</em> <br>
-  TACAS'21, <em>SR</em> <br>
-  JLAMP, Vol. 121, <em>SR</em>
-</div> 
-
-</div>
-<!-- End: div container -->
-
-
-
-# Misc
-<div style = "display:inline-block; padding:0px 0px 5px 0px">
-Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
-
-I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
-
-</div>
