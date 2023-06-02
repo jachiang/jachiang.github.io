@@ -6,7 +6,7 @@ layout: page
 
 <!-- # About me -->
 
-<img src="images/me.png" width="197px">
+<img src="images/me2.png" width="197px">
 
 [Email](mailto:james.chiangwu@gmail.com) |
 [Twitter](https://twitter.com/digi_james) |
