@@ -92,7 +92,7 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>FairPoS: Input Fairness in Proof-of-Stake with Adaptive Security</u> <br>
+<u>FairPoS: Input Fairness in Permissionless Consensus</u> <br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
   Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>)
