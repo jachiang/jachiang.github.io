@@ -28,7 +28,7 @@ Prior to my PhD in computer science, I designed flight hardware for Mars mission
 
 I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
 
-During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input privacy and even general, privacy-preserving smart contracts in the static corruption setting. 
+During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and general, privacy-preserving smart contracts in the static corruption setting. 
 <!-- I am interested in investigating universally expressive, privacy-preserving smart contracts
 that scale and are secure against adaptive adversaries with a corruption budget applicable 
 across all online internet participants. -->
