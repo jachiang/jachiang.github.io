@@ -71,7 +71,7 @@ across all online internet participants. -->
 
 
 
-# Misc
+# Other
 <div style = "display:inline-block; padding:0px 0px 20px 0px">
 Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
 
@@ -82,6 +82,14 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 # Research Manuscripts
 
 **Under submission**
+
+<div style = "padding:0px 0px 15px 0px">
+<u>Correlated-Output-Differential-Privacy and Applications to Dark Pools</u> <br>
+  <div style = "padding:0px 0px 0px 10px">
+  James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
+    Manuscript, 2023 (<a href="https://eprint.iacr.org/2023/943">ePrint</a>)
+  </div>
+</div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u>SoK: Privacy-Enhancing Technologies in Finance</u> <br>
