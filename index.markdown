@@ -84,7 +84,7 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 **Under submission**
 
 <div style = "padding:0px 0px 15px 0px">
-<u>Correlated-Output-Differential-Privacy and Applications to Dark Pools</u> <br>
+<u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> <br>
   <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
     Manuscript, 2023 (<a href="https://eprint.iacr.org/2023/943">ePrint</a>)
