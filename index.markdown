@@ -16,7 +16,7 @@ layout: page
 
 # About Me
 
-I am a PostDoc researcher at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/). I will defend my PhD at the Technical University of Denmark (DTU) and hold a BSc from the University of California, Los Angeles. 
+I am a PostDoc researcher at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/). My PhD at the Technical University of Denmark (DTU) was awarded the DTU Compute scholarship, and I hold a BSc from the University of California, Los Angeles. 
 
 <!-- I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-Lafuente](http://www.imm.dtu.dk/~albl/), and the Cryptography group of IT University of Copenhagen, advised by [Bernardo David](http://www.bmdavid.com/). I have also had the fortune to be advised by [Massimo Bartoletti](https://tcs.unica.it/members/bart) (UniCa) and [Ittay Eyal](https://webee.technion.ac.il/people/ittay/) (Technion). -->
 
