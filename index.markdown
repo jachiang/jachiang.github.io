@@ -83,13 +83,14 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 
 # Research Manuscripts
 
-**Under submission**
+<!-- **Under submission** -->
 
+**Peer-reviewed**
 <div style = "padding:0px 0px 15px 0px">
 <u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> <br>
   <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
-    Manuscript, 2023 (<a href="https://eprint.iacr.org/2023/943">ePrint</a>)
+    Advances in Financial Technologies, 2023 (<a href="https://eprint.iacr.org/2023/943">ePrint</a>)
   </div>
 </div>
 
@@ -97,7 +98,7 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 <u>SoK: Privacy-Enhancing Technologies in Finance</u> <br>
 <div style = "padding:0px 0px 0px 10px">
  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-  Manuscript, 2023 (<a href="https://eprint.iacr.org/2023/122">ePrint</a>)
+  Advances in Financial Technologies, 2023 (<a href="https://eprint.iacr.org/2023/122">ePrint</a>)
 </div>
 </div>
 
@@ -105,12 +106,9 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 <u>FairPoS: Input Fairness in Permissionless Consensus</u> <br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
-  Manuscript, 2022 (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>)
+  Advances in Financial Technologies, 2023 (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>)
 </div>
 </div>
-
-
-**Peer-reviewed**
 
 <div style = "padding:0px 0px 15px 0px">
 <u>Eagle: Efficient Privacy Preserving Smart Contracts</u> <br>
