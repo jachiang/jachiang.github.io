@@ -86,17 +86,17 @@ across all online internet participants. -->
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>SoK: Privacy-Enhancing Technologies in Finance</u> (<a href="https://eprint.iacr.org/2023/122">ePrint</a>) <br>
+<u>FairPoS: Input Fairness in Permissionless Consensus</u>  (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>) <br>
 <div style = "padding:0px 0px 0px 10px">
- Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen<br>
+  James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
     <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>FairPoS: Input Fairness in Permissionless Consensus</u>  (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>) <br>
+<u>SoK: Privacy-Enhancing Technologies in Finance</u> (<a href="https://eprint.iacr.org/2023/122">ePrint</a>) <br>
 <div style = "padding:0px 0px 0px 10px">
-  James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
+ Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen<br>
     <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
 </div>
 </div>
