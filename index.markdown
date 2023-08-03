@@ -15,13 +15,13 @@ layout: page
 
 
 <!-- Div containing floating divs ... -->
-<div style = "display:inline-block; padding:0px 0px 7px 0px">
+<div style = "display:inline-block; padding:0px 0px 20px 0px">
 
-<div style = "width:195px; float:left; padding:0px 20px 10px 0px">
+<div style = "width:195px; float:left; padding:0px 18px 5px 0px">
   <img src="images/me2.png">
 </div>
 
-<div style = "width:375px;  float:left; padding:0px 0px 0px 0px;" >
+<div style = " padding:0px 0px 0px 0px;" >
   <a href="mailto:james.chiangwu@gmail.com">Email</a> | 
   <a href="https://twitter.com/digi_james">Twitter</a> | 
   <a href="https://github.com/jachiang">Github</a> | 
@@ -31,11 +31,11 @@ layout: page
 
   I am a PostDoc researcher at the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a>. 
   <br>
-  <hr style="height:8px; visibility:hidden;">
+  <hr style="height:9px; visibility:hidden;">
 
   My PhD at the Technical University of Denmark (DTU) was awarded the DTU Compute scholarship. I hold a BSc from the University of California, Los Angeles. 
   <br>
-  <hr style="height:8px; visibility:hidden;">
+  <hr style="height:9px; visibility:hidden;">
 
   Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a> and contributed to open-source libraries implementing the original Bitcoin protocol.
 </div> 
