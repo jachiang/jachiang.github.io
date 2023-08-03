@@ -18,7 +18,7 @@ layout: page
 
 I am a PostDoc researcher at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/). 
 
-My PhD at the Technical University of Denmark (DTU) was awarded the DTU Compute scholarship, and I hold a BSc from the University of California, Los Angeles. 
+My PhD at the Technical University of Denmark (DTU) was awarded the DTU Compute scholarship. I hold a BSc from the University of California, Los Angeles. 
 
 <!-- I am a member of the Formal Methods section of DTU, advised by [Alberto Lluch-Lafuente](http://www.imm.dtu.dk/~albl/), and the Cryptography group of IT University of Copenhagen, advised by [Bernardo David](http://www.bmdavid.com/). I have also had the fortune to be advised by [Massimo Bartoletti](https://tcs.unica.it/members/bart) (UniCa) and [Ittay Eyal](https://webee.technion.ac.il/people/ittay/) (Technion). -->
 
@@ -155,7 +155,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u> SoK: Lending Pools in Decentralized Finance</u> (<a href="https://arxiv.org/abs/2012.13230">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  <a href="https://fc21.ifca.ai/defi/program.html">Fifth Workshop on Trusted Smart Contracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+  <a href="https://fc21.ifca.ai/wtsc/program.html">Fifth Workshop on Trusted Smart Contracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
 </div>
 </div>
 
