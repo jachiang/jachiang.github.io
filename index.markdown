@@ -87,83 +87,83 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 
 **Peer-reviewed**
 <div style = "padding:0px 0px 15px 0px">
-<u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> <br>
+<u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> (<a href="https://eprint.iacr.org/2023/943">ePrint</a>) <br>
   <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
-    Advances in Financial Technologies, 2023 (<a href="https://eprint.iacr.org/2023/943">ePrint</a>)
+    <a href="https://aftconf.github.io/aft23/program.html">Advances in Financial Technologies, Princeton University, 2023</a> 
   </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>SoK: Privacy-Enhancing Technologies in Finance</u> <br>
+<u>SoK: Privacy-Enhancing Technologies in Finance</u> (<a href="https://eprint.iacr.org/2023/122">ePrint</a>) <br>
 <div style = "padding:0px 0px 0px 10px">
- Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-  Advances in Financial Technologies, 2023 (<a href="https://eprint.iacr.org/2023/122">ePrint</a>)
+ Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen<br>
+  <a href="https://aftconf.github.io/aft23/program.html">Advances in Financial Technologies, Princeton University, 2023</a> 
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>FairPoS: Input Fairness in Permissionless Consensus</u> <br>
+<u>FairPoS: Input Fairness in Permissionless Consensus</u>  (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>) <br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
-  Advances in Financial Technologies, 2023 (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>)
+  <a href="https://aftconf.github.io/aft23/program.html">Advances in Financial Technologies, Princeton University, 2023</a>
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>Eagle: Efficient Privacy Preserving Smart Contracts</u> <br>
+<u>Eagle: Efficient Privacy Preserving Smart Contracts</u> (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-  International Conference on Financial Cryptography and Data Security, 2023 (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)
+  <a href="https://fc23.ifca.ai/program.html">Financial Cryptography and Data Security, Bol, Brač, Croatia, 2023</a> 
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>SoK: Mitigation of Front-running in Decentralized Finance</u> <br>
+<u>SoK: Mitigation of Front-running in Decentralized Finance</u> (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
-  2nd Workshop on Decentralized Finance, FC 2022 (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)
+  <a href="https://fc22.ifca.ai/defi/program.html">2nd Workshop on Decentralized Finance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>Maximizing Extractable Value from Automated Market Makers</u> <br>
+<u>Maximizing Extractable Value from Automated Market Makers</u> (<a href="https://arxiv.org/abs/2106.01870">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  International Conference on Financial Cryptography and Data Security, 2022 (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
+  <a href="https://fc22.ifca.ai/program.html">Financial Cryptography and Data Security, Grenada, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>Formal analysis of lending pools in decentralized finance</u> <br>
+<u>Formal analysis of lending pools in decentralized finance</u>  (<a href="https://arxiv.org/abs/2206.01333">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
 Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente, Massimiliano Mirelli, Andrea Vandin <br>
-International Symposium on Leveraging Applications of Formal Methods, 2022 (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
+<a href = "https://2022.isola-conference.org/program/">International Symposium on Leveraging Applications of Formal Methods, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>A theory of Automated Market Makers in DeFi</u> <br>
+<u>A theory of Automated Market Makers in DeFi</u> (<a href="https://arxiv.org/abs/2102.11350v2">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
   Logical Methods in Computer Science, Volume 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
-  Coordination Models and Languages, 2021 (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
+  <a href="https://www.discotec.org/2021/programme">Coordination Models and Languages, 2021</a> (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u> SoK: Lending Pools in Decentralized Finance</u> <br>
+<u> SoK: Lending Pools in Decentralized Finance</u> (<a href="https://arxiv.org/abs/2012.13230">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  Fifth Workshop on Trusted Smart Contracts, FC 2021 (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+  <a href="https://fc21.ifca.ai/defi/program.html">Fifth Workshop on Trusted Smart Contracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
 </div>
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <br>
+<u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <a href="https://arxiv.org/abs/2007.07528">(arXiv)</a><br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang <br>
-  MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021 (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
+  <a href = "https://cryptoeconomicsystems.pubpub.org/vol1-2">MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021</a> (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
 </div>
 </div>
 
