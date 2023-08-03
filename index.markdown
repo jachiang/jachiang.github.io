@@ -113,7 +113,7 @@ across all online internet participants. -->
 <u>SoK: Mitigation of Front-running in Decentralized Finance</u> (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
-  <a href="https://fc22.ifca.ai/defi/program.html">2nd Workshop on Decentralized Finance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
+  <a href="https://fc22.ifca.ai/defi/program.html">Workshop on Decentralized Finance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
 </div>
 </div>
 
@@ -146,7 +146,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u> SoK: Lending Pools in Decentralized Finance</u> (<a href="https://arxiv.org/abs/2012.13230">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  <a href="https://fc21.ifca.ai/wtsc/program.html">Fifth Workshop on Trusted Smart Contracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+  <a href="https://fc21.ifca.ai/wtsc/program.html">Workshop on Trusted Smart Contracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
 </div>
 </div>
 
