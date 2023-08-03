@@ -49,8 +49,8 @@ across all online internet participants. -->
   <a href="https://defi.security/">DeFi'23</a> (CCS'23), <em>PC</em> <br>
   <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
   <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
-  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), <em>PC</em> <br>
   <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22), <em>PC</em> <br>
+  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22), <em>PC</em> <br>
   <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22), <em>PC</em>
 </div>
 
