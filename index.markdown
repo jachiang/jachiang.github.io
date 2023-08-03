@@ -29,7 +29,7 @@ layout: page
 
   <hr style="height:10px; visibility:hidden;">
 
-  I am a PostDoc researcher at the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a>. 
+  I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a>. 
   <br>
   <hr style="height:9px; visibility:hidden;">
 
