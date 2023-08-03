@@ -81,7 +81,7 @@ across all online internet participants. -->
 <u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> (<a href="https://eprint.iacr.org/2023/943">ePrint</a>) <br>
   <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
-    <a href="https://aftconf.github.io/aft23/program.html">Advances in Financial Technologies, Princeton University, 2023</a> 
+    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
   </div>
 </div>
 
@@ -89,7 +89,7 @@ across all online internet participants. -->
 <u>SoK: Privacy-Enhancing Technologies in Finance</u> (<a href="https://eprint.iacr.org/2023/122">ePrint</a>) <br>
 <div style = "padding:0px 0px 0px 10px">
  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen<br>
-  <a href="https://aftconf.github.io/aft23/program.html">Advances in Financial Technologies, Princeton University, 2023</a> 
+    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
 </div>
 </div>
 
@@ -97,7 +97,7 @@ across all online internet participants. -->
 <u>FairPoS: Input Fairness in Permissionless Consensus</u>  (<a href="https://eprint.iacr.org/2022/1442">ePrint</a>) <br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
-  <a href="https://aftconf.github.io/aft23/program.html">Advances in Financial Technologies, Princeton University, 2023</a>
+    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
 </div>
 </div>
 
@@ -105,7 +105,7 @@ across all online internet participants. -->
 <u>Eagle: Efficient Privacy Preserving Smart Contracts</u> (<a href="https://eprint.iacr.org/2022/1435">ePrint</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-  <a href="https://fc23.ifca.ai/program.html">Financial Cryptography and Data Security, Bol, Brač, Croatia, 2023</a> 
+  <a href="https://fc23.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security, Bol, Croatia, 2023</a> 
 </div>
 </div>
 
@@ -113,7 +113,7 @@ across all online internet participants. -->
 <u>SoK: Mitigation of Front-running in Decentralized Finance</u> (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
-  <a href="https://fc22.ifca.ai/defi/program.html">Workshop on Decentralized Finance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
+  <a href="https://fc22.ifca.ai/defi/program.html">Workshop on <u>De</u>centralized <u>F</u>inance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
 </div>
 </div>
 
@@ -121,7 +121,7 @@ across all online internet participants. -->
 <u>Maximizing Extractable Value from Automated Market Makers</u> (<a href="https://arxiv.org/abs/2106.01870">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  <a href="https://fc22.ifca.ai/program.html">Financial Cryptography and Data Security, Grenada, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
+  <a href="https://fc22.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security, Grenada, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
 </div>
 </div>
 
@@ -129,7 +129,7 @@ across all online internet participants. -->
 <u>Formal analysis of lending pools in decentralized finance</u>  (<a href="https://arxiv.org/abs/2206.01333">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
 Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente, Massimiliano Mirelli, Andrea Vandin <br>
-<a href = "https://2022.isola-conference.org/program/">International Symposium on Leveraging Applications of Formal Methods, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
+<a href = "https://2022.isola-conference.org/program/"><u>I</u>nternational <u>S</u>ymposium <u>o</u>n <u>L</u>everaging <u>A</u>pplications of Formal Methods, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
 </div>
 </div>
 
@@ -138,7 +138,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
   Logical Methods in Computer Science, Vol 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
-  <a href="https://www.discotec.org/2021/programme">Coordination Models and Languages, 2021</a> (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
+  <a href="https://www.discotec.org/2021/programme"><u>Coordination</u> Models and Languages, 2021</a> (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
 </div>
 </div>
 
@@ -146,7 +146,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u> SoK: Lending Pools in Decentralized Finance</u> (<a href="https://arxiv.org/abs/2012.13230">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  <a href="https://fc21.ifca.ai/wtsc/program.html">Workshop on Trusted Smart Contracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+  <a href="https://fc21.ifca.ai/wtsc/program.html"><u>W</u>orkshop on <u>T</u>rusted <u>S</u>mart <u>C</u>ontracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
 </div>
 </div>
 
@@ -154,7 +154,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <a href="https://arxiv.org/abs/2007.07528">(arXiv)</a><br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang <br>
-  <a href = "https://cryptoeconomicsystems.pubpub.org/vol1-2">MIT Press Cryptoeconomic Systems, Vol 1, Issue 2, 2021</a> (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
+  <a href = "https://cryptoeconomicsystems.pubpub.org/vol1-2">MIT Press <u>C</u>rypto<u>e</u>conomic <u>S</u>ystems, Vol 1, Issue 2, 2021</a> (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
 </div>
 </div>
 
