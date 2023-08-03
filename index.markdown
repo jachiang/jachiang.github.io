@@ -72,15 +72,6 @@ across all online internet participants. -->
 </div>
 
 
-
-# Other
-<div style = "display:inline-block; padding:0px 0px 20px 0px">
-Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
-
-I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
-</div>
-
-
 # Research Manuscripts
 
 <!-- **Under submission** -->
@@ -167,3 +158,11 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 </div>
 </div>
 
+
+
+# Other
+<div style = "display:inline-block; padding:0px 0px 20px 0px">
+Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
+
+I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
+</div>
