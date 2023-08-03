@@ -113,7 +113,7 @@ across all online internet participants. -->
 <u>SoK: Mitigation of Front-running in Decentralized Finance</u> (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
-  <a href="https://fc22.ifca.ai/defi/program.html">Workshop on <u>De</u>centralized <u>F</u>inance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
+  <a href="https://fc22.ifca.ai/defi/program.html">Workshop on <u>De</u>centralized <u>Fi</u>nance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
 </div>
 </div>
 
