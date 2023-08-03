@@ -119,14 +119,6 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 </div>
 
 <div style = "padding:0px 0px 15px 0px">
-<u>Maximizing Extractable Value from Automated Market Makers</u> <br>
-<div style = "padding:0px 0px 0px 10px">
-  Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  International Conference on Financial Cryptography and Data Security, 2022 (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
-</div>
-</div>
-
-<div style = "padding:0px 0px 15px 0px">
 <u>SoK: Mitigation of Front-running in Decentralized Finance</u> <br>
 <div style = "padding:0px 0px 0px 10px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
@@ -134,6 +126,13 @@ I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics<
 </div>
 </div>
 
+<div style = "padding:0px 0px 15px 0px">
+<u>Maximizing Extractable Value from Automated Market Makers</u> <br>
+<div style = "padding:0px 0px 0px 10px">
+  Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
+  International Conference on Financial Cryptography and Data Security, 2022 (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
+</div>
+</div>
 
 <div style = "padding:0px 0px 15px 0px">
 <u>Formal analysis of lending pools in decentralized finance</u> <br>
