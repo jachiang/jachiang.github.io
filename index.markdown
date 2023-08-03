@@ -137,7 +137,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u>A theory of Automated Market Makers in DeFi</u> (<a href="https://arxiv.org/abs/2102.11350v2">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  Logical Methods in Computer Science, Volume 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
+  Logical Methods in Computer Science, Vol 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
   <a href="https://www.discotec.org/2021/programme">Coordination Models and Languages, 2021</a> (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
 </div>
 </div>
@@ -154,7 +154,7 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <a href="https://arxiv.org/abs/2007.07528">(arXiv)</a><br>
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang <br>
-  <a href = "https://cryptoeconomicsystems.pubpub.org/vol1-2">MIT Press Cryptoeconomic Systems, Volume 1, Issue 2, 2021</a> (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
+  <a href = "https://cryptoeconomicsystems.pubpub.org/vol1-2">MIT Press Cryptoeconomic Systems, Vol 1, Issue 2, 2021</a> (<a href="https://cryptoeconomicsystems.pubpub.org/pub/chiang-trace-net/release/4">doi</a>)
 </div>
 </div>
 
