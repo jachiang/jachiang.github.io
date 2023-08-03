@@ -17,17 +17,17 @@ layout: page
 <!-- Div containing floating divs ... -->
 <div style = "display:inline-block; padding:0px 0px 7px 0px">
 
-<div style = "width:160px; float:left; padding:0px 20px 5px 0px">
+<div style = "width:195px; float:left; padding:0px 20px 10px 0px">
   <img src="images/me2.png">
 </div>
 
-<div style = "width:410px;  float:left; padding:12px 0px 0px 0px;" >
+<div style = "width:375px;  float:left; padding:0px 0px 0px 0px;" >
   <a href="mailto:james.chiangwu@gmail.com">Email</a> | 
   <a href="https://twitter.com/digi_james">Twitter</a> | 
   <a href="https://github.com/jachiang">Github</a> | 
   <a href="https://www.linkedin.com/in/jameshsinyuchiang">Linkedin</a>
 
-  <hr style="height:8px; visibility:hidden;">
+  <hr style="height:10px; visibility:hidden;">
 
   I am a PostDoc researcher at the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a>. 
   <br>
