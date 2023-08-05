@@ -53,7 +53,7 @@ Prior to my PhD in computer science, I designed flight hardware for Mars mission
 
 # Research Interests
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&sortby=pubdate) / [DBLP](https://dblp.uni-trier.de/pid/282/1574.html)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=9NcawdAAAAAJ&view_op=list_works&sortby=pubdate) / [DBLP](https://dblp.uni-trier.de/pid/282/1574.html)
 
 I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
 
