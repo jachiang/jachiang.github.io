@@ -142,8 +142,8 @@ Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente
 <u>A theory of Automated Market Makers in DeFi</u> (<a href="https://arxiv.org/abs/2102.11350v2">arXiv</a>)<br>
 <div style = "padding:0px 0px 0px 10px">
   Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-  Logical Methods in Computer Science, Vol 18, Issue 4, 2022 (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) <br>
-  <a href="https://www.discotec.org/2021/programme"><u>Coordination</u> Models and Languages, 2021</a> (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>)
+  <a href="https://www.discotec.org/2021/programme"><u>Coordination</u> Models and Languages, 2021</a> (<a href="https://doi.org/10.1007/978-3-030-78142-2_11">doi</a>) <br>
+  <a href="https://lmcs.episciences.org/volume/view/id/681"><u>L</u>ogical <u>M</u>ethods in <u>C</u>omputer <u>S</u>cience, Vol 18, Issue 4, 2022</a> (<a href="https://doi.org/10.46298/lmcs-18(4:12)2022">doi</a>) 
 </div>
 </div>
 
