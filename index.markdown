@@ -50,7 +50,8 @@ During my PhD, I studied a class of smart contract applications called Decentral
 <div style = "display:inline-block; padding:0px 0px 5px 0px">
 
 <div style = "width:190px; float:left; padding:0px 0px 5px 0px">
-  <u>Blockchain Workshops</u> <br>
+  <u>Blockchain</u> <br>
+  <a href="https://fc24.ifca.ai/">FC'23</a>, <em>PC</em> <br>
   <a href="https://defi.security/">DeFi'23</a> (CCS'23), <em>PC</em> <br>
   <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
   <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
