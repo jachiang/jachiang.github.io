@@ -60,7 +60,7 @@ During my PhD, I studied a class of smart contract applications called Decentral
   <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22), <em>PC</em>
 </div>
 
-<div style = "width:140px;  float:left;  padding:0px 0px 5px 0px">
+<div style = "width:130px;  float:left;  padding:0px 0px 5px 0px">
   <br>
   Eurocrypt'22, <em>SR</em> <br>
   Asiacrypt'22, <em>SR</em> <br>
