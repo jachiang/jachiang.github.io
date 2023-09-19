@@ -22,7 +22,7 @@ layout: page
     <br>
     <hr style="height:9px; visibility:hidden;">
 
-    My PhD at the Technical University of Denmark (DTU) was awarded the DTU Compute fellowship. I hold a BSc from the University of California, Los Angeles (with distinction). 
+    My PhD at the Technical University of Denmark (DTU) was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction. 
     <br>
     <hr style="height:9px; visibility:hidden;">
 
