@@ -51,7 +51,7 @@ During my PhD, I studied a class of smart contract applications called Decentral
 
 <div style = "width:180px; float:left; padding:0px 0px 5px 0px">
   <u>Cryptography & Security</u> <br>
-  <a href="https://fc24.ifca.ai/">FC'24</a>, <em>PC</em> <br>
+  <a href="https://fc24.ifca.ai/">Financial Cryptography'24</a>, <em>PC</em> <br>
   <a href="https://defi.security/">DeFi'23</a> (CCS'23), <em>PC</em> <br>
   <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23), <em>PC</em> <br>
   <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23), <em>PC</em><br>
@@ -62,6 +62,7 @@ During my PhD, I studied a class of smart contract applications called Decentral
 
 <div style = "width:130px;  float:left;  padding:0px 0px 5px 0px">
   <br>
+  Eurocrypt'24, <em>SR</em> <br>
   Eurocrypt'22, <em>SR</em> <br>
   Asiacrypt'22, <em>SR</em> <br>
   CCS'22, <em>SR</em>   
