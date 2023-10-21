@@ -3,6 +3,20 @@ layout: page
 # title: About
 # permalink: /about/
 ---
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 
 <div style = "display:inline-block; padding:0px 0px 20px 0px">
 
@@ -18,7 +32,7 @@ layout: page
 
     <hr style="height:10px; visibility:hidden;">
 
-    I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a>. 
+    I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> hosted by Ivan Damgård and Claudio Orlandi. 
     <br>
     <hr style="height:9px; visibility:hidden;">
 
@@ -26,7 +40,7 @@ layout: page
     <br>
     <hr style="height:9px; visibility:hidden;">
 
-    Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups in Switzerland <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a> and contributed to open-source libraries implementing the original Bitcoin protocol.
+    Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a> in Switzerland and contributed to open-source libraries implementing the original Bitcoin protocol.
   </div> 
 
 </div>
@@ -37,7 +51,7 @@ layout: page
 
 I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
 
-During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and general, privacy-preserving smart contracts in the presence of static committees. 
+During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and differentially private smart contracts enabled by secure multi-party computation (MPC). 
 
 
 # Academic Service
