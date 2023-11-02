@@ -51,7 +51,7 @@ layout: page
 
 I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
 
-During my PhD, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and differentially private smart contracts enabled by secure multi-party computation (MPC). 
+During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a>, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and differentially private smart contracts enabled by secure multi-party computation (MPC). 
 
 
 # Academic Service
@@ -103,6 +103,7 @@ During my PhD, I studied a class of smart contract applications called Decentral
   <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
     <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
+    (<a href ="https://doi.org/10.4230/LIPIcs.AFT.2023.11">doi</a>)
   </div>
 </div>
 
@@ -111,6 +112,7 @@ During my PhD, I studied a class of smart contract applications called Decentral
 <div style = "padding:0px 0px 0px 10px">
   James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
     <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
+    (<a href ="https://doi.org/10.4230/LIPIcs.AFT.2023.10">doi</a>)
 </div>
 </div>
 
@@ -119,6 +121,7 @@ During my PhD, I studied a class of smart contract applications called Decentral
 <div style = "padding:0px 0px 0px 10px">
  Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen<br>
     <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a> 
+    (<a href ="https://doi.org/10.4230/LIPIcs.AFT.2023.12">doi</a>)
 </div>
 </div>
 
