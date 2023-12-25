@@ -103,7 +103,7 @@ During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-pri
 
 **Peer-reviewed** 
 
-<span style="color: black">Click each <span style="font-size: 6.5pt; padding:0px 1.5px">&#9658;</span><span style="padding:0px 1.5px"><u>paper title</u></span> below for abstract</span>
+<span style="color: black">Click each <span style="font-size: 6pt;">&#9658;</span><u>paper title</u> below for abstract</span>
 
 
 <div style = "padding:0px 0px 15px 0px">
