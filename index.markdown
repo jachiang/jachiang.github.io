@@ -19,11 +19,13 @@ layout: page
 
 
 <div style = "display:inline-block; padding:0px 0px 20px 0px">
-
+  
+  <!-- Left column (Picture)-->
   <div style = "width:195px; float:left; padding:0px 18px 5px 0px">
     <img src="images/me2.png">
   </div>
 
+  <!-- Right column (About) -->
   <div style = " padding:0px 0px 0px 0px;" >
     <a href="mailto:james.chiangwu@gmail.com">Email</a> | 
     <a href="https://twitter.com/digi_james">Twitter</a> | 
@@ -38,6 +40,7 @@ layout: page
 
     My <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> at the Technical University of Denmark (DTU) was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction. 
     <br>
+
     <hr style="height:9px; visibility:hidden;">
 
     Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a> in Switzerland and contributed to open-source libraries implementing the original Bitcoin protocol.
