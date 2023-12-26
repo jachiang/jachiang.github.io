@@ -32,18 +32,24 @@ layout: page
     <a href="https://github.com/jachiang">Github</a> | 
     <a href="https://www.linkedin.com/in/jameshsinyuchiang">Linkedin</a>
 
-    <hr style="height:10px; visibility:hidden;">
+    <hr style="height:6px; visibility:hidden;">
 
     I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> hosted by Ivan Damgård and Claudio Orlandi. 
     <br>
-    <hr style="height:9px; visibility:hidden;">
+    <hr style="height:6px; visibility:hidden;">
 
     My <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> at the Technical University of Denmark (DTU) was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction. 
     <br>
 
-    <hr style="height:9px; visibility:hidden;">
+    <hr style="height:6px; visibility:hidden;">
 
     Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a> in Switzerland and contributed to open-source libraries implementing the original Bitcoin protocol.
+
+    <hr style="height:6px; visibility:hidden;">
+
+    I am native in English and (Swiss) German, advanced in Mandarin Chinese and intermediate 
+    in French.
+
   </div> 
 
 </div>
