@@ -88,7 +88,7 @@ During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-pri
   Eurocrypt'24, <em>SR</em> <br>
   Eurocrypt'22, <em>SR</em> <br>
   Asiacrypt'22, <em>SR</em> <br>
-  CCS'22, <em>SR</em>   
+  ACM CCS'22, <em>SR</em>   
 </div>
 
 <div style = "width:190px;  float:left; padding:0px">
