@@ -254,7 +254,7 @@ During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-pri
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
   <details>
-    <summary><u> Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <a href="https://arxiv.org/abs/2007.07528">(arXiv)</a></summary>
+    <summary><u>Bitcoin Trace-Net: Formal Contract Verification at Signing Time</u> <a href="https://arxiv.org/abs/2007.07528">(arXiv)</a></summary>
     <div style = "padding:8px 0px 8px 10px;" >
       Smart contracting protocols promise to regulate the transfer of cryptocurrency amongst participants in a trustless manner. A safe smart contract implementation should ensure that each participant can always append a contract transaction to the blockchain in order move the contract towards secure completion. To this goal, we propose Bitcoin Trace-Net, a contract verification framework which generates an executable symbolic model from the underlying contract implementation. A Trace-Net model consists of a Petri Net formalism enriched with a Dolev-Yao-like actor knowledge model. The explicit symbolic actor knowledge model supports the verification of contracts featuring cryptographic sub-protocols, which may not be observable on the blockchain. Trace-Net is sufficiently expressive to accurately model blockchain semantics such as the delay between a transaction broadcast and its subsequent confirmation, as well as adversarial blockchain reorganizations of finite depths, both of which can break smart contract safety. As an implementation level framework, Trace-Net can be instantiated at run-time to monitor and verify smart contract protocol executions.  
     </div>
