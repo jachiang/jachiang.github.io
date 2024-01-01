@@ -42,7 +42,9 @@ layout: page
   
     <hr style="height:6px; visibility:hidden;">
 
-    Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a> in Switzerland and contributed to open-source libraries implementing the original Bitcoin protocol.
+    Prior to my PhD in computer science, I designed flight hardware for Mars missions at JPL NASA in Pasadena, advised global technology clients at the Boston Consulting Group, co-founded data-science startups 
+    <!-- <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a>  -->
+    in Switzerland and contributed to open-source libraries implementing the original Bitcoin protocol.
 
     <hr style="height:6px; visibility:hidden;">
 
