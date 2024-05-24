@@ -110,9 +110,25 @@ During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-pri
 
 <!-- **Under submission** -->
 
-**Peer-reviewed** 
+<!-- **Peer-reviewed**  -->
 
 <span style="color: black">Click each <u>paper title</u> below for abstract</span>
+
+<div style = "padding:0px 0px 15px 0px">
+  <!-- begin: title & abstract -->
+  <details>
+    <summary><u>Detecting Rogue Decryption in (Threshold) Encryption via Self-Incriminating Proofs</u> (<a href="https://eprint.iacr.org/2024/794">ePrint</a>)</summary>
+    <div style = "padding:8px 0px 8px 11px;">
+      Keeping decrypting parties accountable in public key encryption is notoriously hard since the secret key owner can decrypt any arbitrary ciphertext. Threshold encryption aims to solve this issue by distributing the power to decrypt among a set of parties, who must interact via a decryption protocol. However, such parties can employ cryptographic tools such as Multiparty Computation (MPC) to decrypt arbitrary ciphertexts without being detected. We introduce the notion of (threshold) encryption with Self-Incriminating Proofs, where parties must produce a self-incriminating proof of decryption when decrypting every ciphertext. In the standard public key encryption case, the adversary could destroy these proofs, so we strengthen our notion to guarantee that the proofs are published when decryption succeeds. This creates a decryption audit trail, which is useful in scenarios where decryption power is held by a single trusted party (e.g., a Trusted Execution Environment) who must be kept accountable. In the threshold case, we ensure that at least one of the parties who execute the decryption protocol will learn a self-incriminating proof, even if they employ advanced tools such as MPC. The fact that a party learns the proof and may leak it at any moment functions as a deterrent for parties who do not wish to be identified as malicious decryptors (e.g., a commercial operator of a service based on threshold encryption). We investigate the (im)possibility and applications of our notions while providing matching constructions under appropriate assumptions. In the threshold case, we build on recent results on Individual Cryptography (CRYPTO 2023).
+  </div> 
+  </details>
+  <!-- begin: authors & venue -->
+  <div style = "padding:2px 0px 0px 11px">
+    James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Arup Mondal, Esra Yeniaras<br>
+    <em>Under Submission.</em>  
+  </div>
+</div>
+
 
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
