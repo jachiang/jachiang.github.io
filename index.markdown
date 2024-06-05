@@ -89,7 +89,7 @@ During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-pri
   <br>
   Crypto'24, <em>SR</em> <br>
   Eurocrypt'24, <em>SR</em> <br>
-  SCN'24, <em>SR</em> <br>
+  CANS'24, <em>SR</em> <br>
   Eurocrypt'22, <em>SR</em> <br>
   Asiacrypt'22, <em>SR</em> <br>
   ACM CCS'22, <em>SR</em>   
