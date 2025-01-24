@@ -135,7 +135,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
   <details>
-    <summary><u>Minimizing the Use of the Honest Majority in YOSO MPC with Guaranteed Output Delivery</u> (<a href="https://eprint.iacr.org/2024/2059.pdf">ePrint</a>)</summary>
+    <summary><u>Minimizing Use of Honest Majority in YOSO MPC with Guaranteed Output Delivery</u> (<a href="https://eprint.iacr.org/2024/2059.pdf">ePrint</a>)</summary>
     <div style = "padding:8px 0px 8px 11px;">
       Cleve (STOC 86) shows that an honest majority is necessary for MPC with guaranteed output delivery. In this paper, we show that while an honest majority is indeed necessary, its involvement can be minimal. We demonstrate an MPC protocol with guaranteed output delivery, the majority of which is executed by a sequence of committees with dishonest majority; we leverage one committee with an honest majority, each member of which does work independent of the circuit size. Our protocol has the desirable property that every participant speaks only once (YOSO, Crypto 2021).
       As a building block of independent interest, we introduce public computation, which is essentially privacy-free MPC with guaranteed output delivery (akin to smart contracts realized on blockchains). We instantiate public computation on a public bulletin board in three different ways (with different assumption / round / space utilization trade-offs).
