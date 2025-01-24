@@ -38,7 +38,7 @@ layout: page
 
     <hr style="height:6px; visibility:hidden;">
 
-    My <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> at the Technical University of Denmark (DTU) was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction.
+    I defended my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> at the Technical University of Denmark (DTU) in August 2023, which was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction.
 
     <hr style="height:6px; visibility:hidden;">
 
