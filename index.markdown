@@ -59,7 +59,7 @@ layout: page
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=9NcawdAAAAAJ&view_op=list_works&sortby=pubdate) / [DBLP](https://dblp.uni-trier.de/pid/282/1574.html)
 
-I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for all domains.
+I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols for practical application domains.
 
 <!-- During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a>, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and differentially private smart contracts enabled by secure multi-party computation (MPC).  -->
 
