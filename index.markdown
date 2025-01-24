@@ -341,9 +341,9 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 </div>
 
 
-# Other
+<!-- # Other
 <div style = "display:inline-block; padding:0px 0px 20px 0px">
 Full course materials from <a href="https://teachbitcoin.io/curriculum/">my course</a> on Bitcoin programming.<br>
 
 I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
-</div>
+</div> -->
