@@ -119,6 +119,53 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
   <details>
+    <summary><u>Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head</u> (<a href="https://eprint.iacr.org/2025/113.pdf">ePrint</a>)</summary>
+    <div style = "padding:8px 0px 8px 11px;">
+      We propose efficient, post-quantum threshold ring signatures constructed from one-wayness of AES encryption and the VOLE-in-the-Head zero-knowledge proof system. Our scheme scales efficiently to large rings and extends the linkable ring signatures paradigm. We define and construct key-binding deterministic tags for signature linkability, that also enable succinct aggregation with approximate lower bound arguments of knowledge; this allows us to achieve succinct aggregation of our signatures without SNARKs. Finally, we extend our threshold ring signatures to realize post-quantum anonymous ledger transactions in the spirit of Monero. Our constructions assume symmetric key primitives only.
+      Whilst it is common to build post-quantum signatures from the one-wayness property of AES and a post-quantum NIZK scheme, we extend this paradigm to define and construct novel security properties from AES that are useful for advanced signature applications. We introduce key-binding and pseudorandomness of AES to establish linkability and anonymity of our threshold ring signatures from deterministic tags, and similarly establish binding and hiding properties of block ciphers modeled as ideal permutations to build commitments from AES, a crucial building block for our proposed post-quantum anonymous ledger scheme.
+  </div>
+  </details>
+  <!-- begin: authors & venue -->
+  <div style = "padding:2px 0px 0px 11px">
+    James Hsin-yu Chiang, Ivan Damgård, William R. Duro, Sunniva Engan, Sebastian Kolby, Peter Scholl<br>
+    <em>Under Submission. First online - 01/2025.</em>
+  </div>
+</div>
+
+<div style = "padding:0px 0px 15px 0px">
+  <!-- begin: title & abstract -->
+  <details>
+    <summary><u>Minimizing the Use of the Honest Majority in YOSO MPC with Guaranteed Output Delivery</u> (<a href="https://eprint.iacr.org/2024/2059.pdf">ePrint</a>)</summary>
+    <div style = "padding:8px 0px 8px 11px;">
+      Cleve (STOC 86) shows that an honest majority is necessary for MPC with guaranteed output delivery. In this paper, we show that while an honest majority is indeed necessary, its involvement can be minimal. We demonstrate an MPC protocol with guaranteed output delivery, the majority of which is executed by a sequence of committees with dishonest majority; we leverage one committee with an honest majority, each member of which does work independent of the circuit size. Our protocol has the desirable property that every participant speaks only once (YOSO, Crypto 2021).
+      As a building block of independent interest, we introduce public computation, which is essentially privacy-free MPC with guaranteed output delivery (akin to smart contracts realized on blockchains). We instantiate public computation on a public bulletin board in three different ways (with different assumption / round / space utilization trade-offs).
+  </div>
+  </details>
+  <!-- begin: authors & venue -->
+  <div style = "padding:2px 0px 0px 11px">
+    Rishabh Bhadauria, James Hsin-yu Chiang, Divya Ravi, Jure Sternad, Sophia Yakoubov<br>
+    <em>Under Submission. First online - 12/2024.</em>
+  </div>
+</div>
+
+<div style = "padding:0px 0px 15px 0px">
+  <!-- begin: title & abstract -->
+  <details>
+    <summary><u>Securely Computing One-Sided Matching Markets</u> (<a href="https://eprint.iacr.org/2024/1657.pdf">ePrint</a>)</summary>
+    <div style = "padding:8px 0px 8px 11px;">
+      Top trading cycles (TTC) is a famous algorithm for trading indivisible goods between a set of agents such that all agents are as happy as possible about the outcome. In this paper, we present a protocol for executing TTC in a privacy preserving way. To the best of our knowledge, it is the first of its kind. As a technical contribution of independent interest, we suggest a new algorithm for determining all nodes in a functional graph that are on a cycle. The algorithm is particularly well suited for secure implementation in that it requires no branching and no random memory access. Finally, we report on a prototype implementation of the protocol based on somewhat homomorphic encryption.
+  </div>
+  </details>
+  <!-- begin: authors & venue -->
+  <div style = "padding:2px 0px 0px 11px">
+    James Hsin-yu Chiang, Ivan Damgård, Claudio Orlandi, Mahak Pancholi, Mark Simkin<br>
+    <em>To appear in Financial Cryptography 2025. First online - 10/2024.</em>
+  </div>
+</div>
+
+<div style = "padding:0px 0px 15px 0px">
+  <!-- begin: title & abstract -->
+  <details>
     <summary><u>Detecting Rogue Decryption in (Threshold) Encryption via Self-Incriminating Proofs</u> (<a href="https://eprint.iacr.org/2024/794">ePrint</a>)</summary>
     <div style = "padding:8px 0px 8px 11px;">
       Keeping decrypting parties accountable in public key encryption is notoriously hard since the secret key owner can decrypt any arbitrary ciphertext. Threshold encryption aims to solve this issue by distributing the power to decrypt among a set of parties, who must interact via a decryption protocol. However, such parties can employ cryptographic tools such as Multiparty Computation (MPC) to decrypt arbitrary ciphertexts without being detected. We introduce the notion of (threshold) encryption with Self-Incriminating Proofs, where parties must produce a self-incriminating proof of decryption when decrypting every ciphertext. In the standard public key encryption case, the adversary could destroy these proofs, so we strengthen our notion to guarantee that the proofs are published when decryption succeeds. This creates a decryption audit trail, which is useful in scenarios where decryption power is held by a single trusted party (e.g., a Trusted Execution Environment) who must be kept accountable. In the threshold case, we ensure that at least one of the parties who execute the decryption protocol will learn a self-incriminating proof, even if they employ advanced tools such as MPC. The fact that a party learns the proof and may leak it at any moment functions as a deterrent for parties who do not wish to be identified as malicious decryptors (e.g., a commercial operator of a service based on threshold encryption). We investigate the (im)possibility and applications of our notions while providing matching constructions under appropriate assumptions. In the threshold case, we build on recent results on Individual Cryptography (CRYPTO 2023).
@@ -127,7 +174,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Arup Mondal, Esra Yeniaras<br>
-    <em>Under Submission.</em>
+    <em>Under Submission. First online - 05/2024.</em>
   </div>
 </div>
 
