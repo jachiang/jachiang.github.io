@@ -89,6 +89,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 
 <div style = "width:130px;  float:left;  padding:0px 0px 5px 0px">
   <br>
+  Eurocrypt'25, <em>SR</em> <br>
   Crypto'24, <em>SR</em> <br>
   Eurocrypt'24, <em>SR</em> <br>
   CANS'24, <em>SR</em> <br>
@@ -128,7 +129,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Ivan Damgård, William R. Duro, Sunniva Engan, Sebastian Kolby, Peter Scholl<br>
-    <em>Under Submission. First online - 01/2025.</em>
+    <em>Under submission, 2025.</em>
   </div>
 </div>
 
@@ -144,7 +145,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     Rishabh Bhadauria, James Hsin-yu Chiang, Divya Ravi, Jure Sternad, Sophia Yakoubov<br>
-    <em>Under Submission. First online - 12/2024.</em>
+    <em>Under submission, 2024.</em>
   </div>
 </div>
 
@@ -174,7 +175,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Arup Mondal, Esra Yeniaras<br>
-    <em>Under Submission. First online - 05/2024.</em>
+    <em>Under submission, 2024.</em>
   </div>
 </div>
 
