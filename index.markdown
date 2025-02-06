@@ -149,20 +149,6 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   </div>
 </div>
 
-<div style = "padding:0px 0px 15px 0px">
-  <!-- begin: title & abstract -->
-  <details>
-    <summary><u>Securely Computing One-Sided Matching Markets</u> (<a href="https://eprint.iacr.org/2024/1657.pdf">ePrint</a>)</summary>
-    <div style = "padding:8px 0px 8px 11px;">
-      Top trading cycles (TTC) is a famous algorithm for trading indivisible goods between a set of agents such that all agents are as happy as possible about the outcome. In this paper, we present a protocol for executing TTC in a privacy preserving way. To the best of our knowledge, it is the first of its kind. As a technical contribution of independent interest, we suggest a new algorithm for determining all nodes in a functional graph that are on a cycle. The algorithm is particularly well suited for secure implementation in that it requires no branching and no random memory access. Finally, we report on a prototype implementation of the protocol based on somewhat homomorphic encryption.
-  </div>
-  </details>
-  <!-- begin: authors & venue -->
-  <div style = "padding:2px 0px 0px 11px">
-    James Hsin-yu Chiang, Ivan Damgård, Claudio Orlandi, Mahak Pancholi, Mark Simkin<br>
-    <em>To appear in Financial Cryptography 2025. First online - 10/2024.</em>
-  </div>
-</div>
 
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
@@ -179,6 +165,20 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   </div>
 </div>
 
+<div style = "padding:0px 0px 15px 0px">
+  <!-- begin: title & abstract -->
+  <details>
+    <summary><u>Securely Computing One-Sided Matching Markets</u> (<a href="https://eprint.iacr.org/2024/1657.pdf">ePrint</a>)</summary>
+    <div style = "padding:8px 0px 8px 11px;">
+      Top trading cycles (TTC) is a famous algorithm for trading indivisible goods between a set of agents such that all agents are as happy as possible about the outcome. In this paper, we present a protocol for executing TTC in a privacy preserving way. To the best of our knowledge, it is the first of its kind. As a technical contribution of independent interest, we suggest a new algorithm for determining all nodes in a functional graph that are on a cycle. The algorithm is particularly well suited for secure implementation in that it requires no branching and no random memory access. Finally, we report on a prototype implementation of the protocol based on somewhat homomorphic encryption.
+  </div>
+  </details>
+  <!-- begin: authors & venue -->
+  <div style = "padding:2px 0px 0px 11px">
+    James Hsin-yu Chiang, Ivan Damgård, Claudio Orlandi, Mahak Pancholi, Mark Simkin<br>
+    <em>To appear in Financial Cryptography 2025.</em>
+  </div>
+</div>
 
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
@@ -193,7 +193,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Bernardo David, Mariana Gama, Christian Janos Lebeda <br>
-    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a>
+    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies 2023</a>
     (<a href ="https://doi.org/10.4230/LIPIcs.AFT.2023.11">doi</a>)
   </div>
 </div>
@@ -211,7 +211,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
     James Hsin-yu Chiang, Bernardo David, Ittay Eyal, Tiantian Gong <br>
-    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a>
+    <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies 2023</a>
     (<a href ="https://doi.org/10.4230/LIPIcs.AFT.2023.10">doi</a>)<br>
   </div>
 </div>
@@ -228,7 +228,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
   Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen<br>
-      <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies, Princeton University, 2023</a>
+      <a href="https://aftconf.github.io/aft23/program.html"><u>A</u>dvances in <u>F</u>inancial <u>T</u>echnologies 2023</a>
       (<a href ="https://doi.org/10.4230/LIPIcs.AFT.2023.12">doi</a>)
   </div>
 </div>
@@ -246,7 +246,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
     Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen <br>
-    <a href="https://fc23.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security, Bol, Croatia, 2023</a>
+    <a href="https://fc23.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security 2023</a>
   </div>
 </div>
 
@@ -261,7 +261,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
     Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile <br>
-    <a href="https://fc22.ifca.ai/defi/program.html">Workshop on <u>De</u>centralized <u>Fi</u>nance (FC'22), Grenada, 2022</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
+    <a href="https://fc22.ifca.ai/defi/program.html">Workshop on <u>De</u>centralized <u>Fi</u>nance (FC'22)</a> (<a href ="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
   </div>
 </div>
 
@@ -276,7 +276,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
     Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-    <a href="https://fc22.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security, Grenada, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
+    <a href="https://fc22.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security 2022</a> (<a href="https://doi.org/10.1007/978-3-031-18283-9_1">doi</a>)
   </div>
 </div>
 
@@ -291,7 +291,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
     Massimo Bartoletti, James Hsin-yu Chiang, Tommi Junttila, Alberto Lluch Lafuente, Massimiliano Mirelli, Andrea Vandin <br>
-    <a href = "https://2022.isola-conference.org/program/"><u>I</u>nternational <u>S</u>ymposium <u>o</u>n <u>L</u>everaging <u>A</u>pplications of Formal Methods, 2022</a> (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
+    <a href = "https://2022.isola-conference.org/program/"><u>I</u>nternational <u>S</u>ymposium <u>o</u>n <u>L</u>everaging <u>A</u>pplications of Formal Methods 2022</a> (<a href="https://doi.org/10.1007/978-3-031-19759-8_21">doi</a>)
   </div>
 </div>
 
@@ -322,7 +322,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:0px 0px 0px 11px">
     Massimo Bartoletti, James Hsin-yu Chiang, Alberto Lluch-Lafuente <br>
-    <a href="https://fc21.ifca.ai/wtsc/program.html"><u>W</u>orkshop on <u>T</u>rusted <u>S</u>mart <u>C</u>ontracts (FC'21), 2021</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
+    <a href="https://fc21.ifca.ai/wtsc/program.html"><u>W</u>orkshop on <u>T</u>rusted <u>S</u>mart <u>C</u>ontracts (FC'21)</a> (<a href="https://doi.org/10.1007/978-3-662-63958-0_40">doi</a>)
   </div>
 </div>
 
