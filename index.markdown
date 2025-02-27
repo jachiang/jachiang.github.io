@@ -34,7 +34,7 @@ layout: page
 
     <hr style="height:6px; visibility:hidden;">
 
-    I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> hosted by Ivan Damgård and Claudio Orlandi.
+    I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> jointly hosted by <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>, <a href="http://web.mit.edu/sonka89/www/">Sophia Yakoubov</a> and <a href="https://dfaranha.github.io/">Diego Aranha</a>.
 
     <hr style="height:6px; visibility:hidden;">
 
