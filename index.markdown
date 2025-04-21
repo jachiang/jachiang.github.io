@@ -50,7 +50,6 @@ layout: page
 
     I am native in English and Swiss/German, advanced in Mandarin Chinese and intermediate
     in French.
-
   </div>
 
 </div>
@@ -129,7 +128,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Ivan Damgård, William R. Duro, Sunniva Engan, Sebastian Kolby, Peter Scholl<br>
-    <em>Under submission, 2025.</em>
+    <em>Conditionally accepted to ACM CCS 2025.</em>
   </div>
 </div>
 
@@ -176,7 +175,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Ivan Damgård, Claudio Orlandi, Mahak Pancholi, Mark Simkin<br>
-    <em>To appear in Financial Cryptography 2025.</em>
+    <em>To appear in Financial Cryptography and Data Security 2025.</em>
   </div>
 </div>
 
