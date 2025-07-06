@@ -126,7 +126,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
   <details>
-    <summary><u>Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head</u> (<a href="https://eprint.iacr.org/2025/113.pdf">ePrint</a>)</summary>
+    <summary><u>Post-Quantum Threshold Ring Signature Applications from VOLE-in-the-Head</u> (<a href="https://eprint.iacr.org/2025/113.pdf">ePrint</a>, <a href="https://github.com/jachiang/PQ-Threshold-Ring-Sigs-from-VOLEitH">github</a>)</summary>
     <div style = "padding:8px 0px 8px 11px;">
       We propose efficient, post-quantum threshold ring signatures constructed from one-wayness of AES encryption and the VOLE-in-the-Head zero-knowledge proof system. Our scheme scales efficiently to large rings and extends the linkable ring signatures paradigm. We define and construct key-binding deterministic tags for signature linkability, that also enable succinct aggregation with approximate lower bound arguments of knowledge; this allows us to achieve succinct aggregation of our signatures without SNARKs. Finally, we extend our threshold ring signatures to realize post-quantum anonymous ledger transactions in the spirit of Monero. Our constructions assume symmetric key primitives only.
       Whilst it is common to build post-quantum signatures from the one-wayness property of AES and a post-quantum NIZK scheme, we extend this paradigm to define and construct novel security properties from AES that are useful for advanced signature applications. We introduce key-binding and pseudorandomness of AES to establish linkability and anonymity of our threshold ring signatures from deterministic tags, and similarly establish binding and hiding properties of block ciphers modeled as ideal permutations to build commitments from AES, a crucial building block for our proposed post-quantum anonymous ledger scheme.
@@ -174,7 +174,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
   <details>
-    <summary><u>Securely Computing One-Sided Matching Markets</u> (<a href="https://eprint.iacr.org/2024/1657.pdf">ePrint</a>)</summary>
+    <summary><u>Securely Computing One-Sided Matching Markets</u> (<a href="https://eprint.iacr.org/2024/1657.pdf">ePrint</a>, <a href="https://github.com/jachiang/Secure-Top-Trading-Cycles">github</a>)</summary>
     <div style = "padding:8px 0px 8px 11px;">
       Top trading cycles (TTC) is a famous algorithm for trading indivisible goods between a set of agents such that all agents are as happy as possible about the outcome. In this paper, we present a protocol for executing TTC in a privacy preserving way. To the best of our knowledge, it is the first of its kind. As a technical contribution of independent interest, we suggest a new algorithm for determining all nodes in a functional graph that are on a cycle. The algorithm is particularly well suited for secure implementation in that it requires no branching and no random memory access. Finally, we report on a prototype implementation of the protocol based on somewhat homomorphic encryption.
   </div>
@@ -189,7 +189,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 <div style = "padding:0px 0px 15px 0px">
   <!-- begin: title & abstract -->
   <details>
-    <summary><u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> (<a href="https://eprint.iacr.org/2023/943">ePrint</a>)</summary>
+    <summary><u>Correlated-Output Differential Privacy and Applications to Dark Pools</u> (<a href="https://eprint.iacr.org/2023/943">ePrint</a>, <a href="https://github.com/maargama/CorrOutDP-darkpool">github</a>)</summary>
     <div style = "padding:8px 0px 8px 11px;">
       In the classical setting of differential privacy, a privacy-preserving query is performed on a private database, after which the query result is released to the analyst; a differentially private query ensures that the presence of a single database entry is protected from the analyst’s view. In this work, we contribute the first definitional framework for differential privacy in the trusted curator setting; clients submit private inputs to the trusted curator, which then computes individual outputs privately returned to each client. The adversary is more powerful than the standard setting; it can corrupt up to n − 1 clients and subsequently decide inputs and learn outputs of corrupted parties. In this setting, the adversary also obtains leakage from the honest output that is correlated with a corrupted output. Standard differentially private mechanisms protect client inputs but do not mitigate output correlation leaking arbitrary client information, which can forfeit client privacy completely. We initiate the investigation of a novel notion of correlated output differential privacy to bound the leakage from output correlation in the trusted curator setting. We define the satisfaction of both standard and correlated-output differential privacy as round differential privacy and highlight the relevance of this novel privacy notion to all application domains in the trusted curator model. <br><br>
 
