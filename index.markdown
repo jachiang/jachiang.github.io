@@ -40,6 +40,8 @@ layout: page
 
     I defended my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> at the Technical University of Denmark in August 2023, which was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction.
 
+    <hr style="height:6px; visibility:hidden;">
+
     My research focuses on privacy-preserving techniques motivated by recent blockchain applications and includes practical advancements in <a href="https://eprint.iacr.org/2025/113.pdf">post-quantum threshold ring signatures</a>, novel notions of <a href="https://eprint.iacr.org/2023/943.pdf">differential privacy for secure multi-party computation</a>, and the first formal model of <a href="https://arxiv.org/pdf/2106.01870">miner-extractable-value</a>. My research has been published in ACM CCS, Financial Cryptography, AFT and recognized with the <a href ="https://blog.sui.io/academic-research-grants-2023/">Sui Academic Research Award</a>.
 
     <hr style="height:6px; visibility:hidden;">
