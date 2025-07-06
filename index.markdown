@@ -34,11 +34,13 @@ layout: page
 
     <hr style="height:6px; visibility:hidden;">
 
-    I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> jointly hosted by <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>, <a href="http://web.mit.edu/sonka89/www/">Sophia Yakoubov</a> and <a href="https://dfaranha.github.io/">Diego Aranha</a>.
+    I am a PostDoc member of the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> hosted by <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>.
 
     <hr style="height:6px; visibility:hidden;">
 
     I defended my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> at the Technical University of Denmark in August 2023, which was awarded the DTU Compute fellowship. I hold a BSc from UCLA with distinction.
+
+    My research focuses on privacy-preserving techniques motivated by recent blockchain applications and includes practical advancements in <a href="https://eprint.iacr.org/2025/113.pdf">post-quantum threshold ring signatures</a>, novel notions of <a href="https://eprint.iacr.org/2023/943.pdf">differential privacy for secure multi-party computation</a>, and the first formal model of <a href="https://arxiv.org/pdf/2106.01870">miner-extractable-value</a>. My research has been published in ACM CCS, Financial Cryptography, AFT and recognized with the <a href ="https://blog.sui.io/academic-research-grants-2023/">Sui Academic Research Award</a>.
 
     <hr style="height:6px; visibility:hidden;">
 
@@ -73,6 +75,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 
 <div style = "width:180px; float:left; padding:0px 0px 5px 0px">
   <u>Cryptography & Security</u> <br>
+    <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX'26</a>, <em>PC</em> <br>
     <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>, <em>PC</em> <br>
     <a href="https://fc25.ifca.ai/">Financial Crypto'25</a>, <em>PC</em> <br>
     <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a>, <em>PC</em> <br>
@@ -88,6 +91,8 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 
 <div style = "width:130px;  float:left;  padding:0px 0px 5px 0px">
   <br>
+  Asiacrypt'25, <em>SR</em> <br>
+  Crypto'25, <em>SR</em> <br>
   Eurocrypt'25, <em>SR</em> <br>
   Crypto'24, <em>SR</em> <br>
   Eurocrypt'24, <em>SR</em> <br>
@@ -128,7 +133,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Ivan Damgård, William R. Duro, Sunniva Engan, Sebastian Kolby, Peter Scholl<br>
-    <em>Conditionally accepted to ACM CCS 2025.</em>
+    <a href="https://www.sigsac.org/ccs/CCS2025/accepted-papers/">ACM CCS 2025</a>
   </div>
 </div>
 
@@ -175,7 +180,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Ivan Damgård, Claudio Orlandi, Mahak Pancholi, Mark Simkin<br>
-    <em>To appear in Financial Cryptography and Data Security 2025.</em>
+    <a href="https://fc25.ifca.ai/program.html"><u>F</u>inancial <u>C</u>ryptography and Data Security 2025</a>
   </div>
 </div>
 
