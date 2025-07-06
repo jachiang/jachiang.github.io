@@ -78,6 +78,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
 <div style = "width:180px; float:left; padding:0px 0px 5px 0px">
   <u>Cryptography & Security</u> <br>
     <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX'26</a>, <em>PC</em> <br>
+    <a href="https://advfintech.org/aft25/index.html">AFT'25</a>, <em>PC</em> <br>
     <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>, <em>PC</em> <br>
     <a href="https://fc25.ifca.ai/">Financial Crypto'25</a>, <em>PC</em> <br>
     <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a>, <em>PC</em> <br>
