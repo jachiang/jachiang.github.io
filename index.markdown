@@ -52,7 +52,7 @@ layout: page
 
     <hr style="height:6px; visibility:hidden;">
 
-    I am native in English and Swiss/German, advanced in Mandarin Chinese and intermediate
+    I am native in English and (Swiss) German, advanced in Mandarin and intermediate
     in French.
   </div>
 
