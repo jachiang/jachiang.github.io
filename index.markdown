@@ -135,7 +135,7 @@ I am interested in Privacy-Enhancing Technologies and Cryptographic Protocols fo
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 11px">
     James Hsin-yu Chiang, Ivan Damgård, William R. Duro, Sunniva Engan, Sebastian Kolby, Peter Scholl<br>
-    <a href="https://www.sigsac.org/ccs/CCS2025/accepted-papers/">ACM CCS 2025</a>
+    <a href="https://www.sigsac.org/ccs/CCS2025/accepted-papers/">ACM Conference on <u>C</u>omputer and <u>C</u>ommunications <u>S</u>ecurity 2025</a>
   </div>
 </div>
 
