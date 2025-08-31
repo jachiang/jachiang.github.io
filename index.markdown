@@ -34,7 +34,7 @@ layout: page
 
     <hr style="height:6px; visibility:hidden;">
 
-    I am a Postdoc member fo the <a href="https://syssec.ethz.ch/">Systems Security Group</a> at ETH Zurich, hosted by
+    I am a Postdoc member of the <a href="https://syssec.ethz.ch/">Systems Security Group</a> at ETH Zurich, hosted by
     <a href="https://srdjan-capkun.com/">Srdjan Capkun</a>,
     and a Research Scientist at <a href="https://www.commonprefix.com/">Common Prefix</a>.
     Previously, I held a Postdoc position at
