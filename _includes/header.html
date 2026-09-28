@@ -1,0 +1,28 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <!-- Copy of the intro links, faded in once the intro links scroll under the header -->
+    <p class="header-links">
+      {% include links.html %}
+    </p>
+  </div>
+
+  <script>
+    // Runs after the page is parsed, since the intro links come after the header
+    document.addEventListener('DOMContentLoaded', function () {
+      var header = document.querySelector('.site-header');
+      var intro = document.querySelector('.intro-links');
+      if (!header || !intro) return;
+
+      function update() {
+        var covered = intro.getBoundingClientRect().bottom <= header.getBoundingClientRect().bottom;
+        header.classList.toggle('show-links', covered);
+      }
+      window.addEventListener('scroll', update, { passive: true });
+      window.addEventListener('resize', update);
+      update();
+    });
+  </script>
+</header>

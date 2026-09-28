@@ -50,7 +50,54 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
+// White fade hanging below an element, so content scrolling underneath fades out
+@mixin fade-below {
+  content: "";
+  position: absolute;
+  top: 100%;
+  height: 20px;
+  background: linear-gradient($background-color, rgba($background-color, 0));
+  pointer-events: none;
+}
+
+// White margin either side of the text inside the content column
+$column-padding: 20px;
+$text-width: $content-width - 2 * $spacing-unit;
+
+// Strip of gray page left visible either side of the column on narrow screens
+$column-gutter: 7px;
+
+// Width of the content column, including its side margins
+$column-width: min(#{$text-width + 2 * $column-padding}, calc(100% - #{2 * $column-gutter}));
+
 // Theme overrides
+
+// Same text width and column margins at all but phone widths, kept inside the column
+.wrapper {
+  max-width: min(#{$text-width}, calc(100% - #{2 * ($column-padding + $column-gutter)}));
+  padding-right: $column-padding;
+  padding-left: $column-padding;
+}
+
+// Gray page behind the content column
+body {
+  background-color: #e4e4e4;
+}
+
+// White column with a shadow either side, so the content looks raised off the page
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: $column-width;
+  transform: translateX(-50%);
+  background-color: $background-color;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
+  z-index: -1;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight * 1.2;
   color: $grey-color-dark;
@@ -58,8 +105,29 @@ h1, h2, h3, h4, h5, h6 {
 
 .site-header {
   border-top: none;
-  border-bottom: 2px solid $grey-color-dark;
+  border-bottom: none;
   min-height: 0;
+
+  // Keep the header pinned to the top while scrolling
+  position: sticky;
+  top: 0;
+  z-index: 10;
+
+  // Limit the fade to the column so it doesn't cover the column's shadow
+  &::after {
+    @include fade-below;
+    left: 50%;
+    width: $column-width;
+    transform: translateX(-50%);
+  }
+}
+
+// Draw the header rule within the content column (like the section rules)
+// rather than across the full page
+.site-header .wrapper {
+  position: relative;
+  background: linear-gradient($grey-color-dark, $grey-color-dark) bottom / 100% 3px no-repeat content-box,
+              $background-color;
 }
 
 .site-title {
@@ -69,14 +137,25 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.3px;
 }
 
-// The theme's nav menu has no pages to list; hide the empty menu button
-.site-nav {
-  display: none;
+// Header copy of the intro links: hidden until the intro links scroll under the header
+.header-links {
+  float: right;
+  margin: 0;
+  line-height: $base-line-height * $base-font-size * 3.0;
+  visibility: hidden;
+
+  a {
+    font-weight: 600;
+  }
+}
+
+.site-header.show-links .header-links {
+  visibility: visible;
 }
 
 // Rule under main section headings (Research, Academic Service)
 .post-content h1 {
-  border-bottom: 1px solid $grey-color;
+  border-bottom: 1.5px solid $grey-color-dark;
   padding-bottom: 4px;
 }
 
@@ -107,6 +186,7 @@ details summary::-webkit-details-marker {
 .intro-photo {
   flex: 0 0 195px;
   width: 195px;
+  border-radius: 12px;
 }
 
 .intro-text {
@@ -155,6 +235,48 @@ details summary::-webkit-details-marker {
     font-size: 15px;
   }
 
+  .wrapper {
+    max-width: calc(100% - #{2 * ($spacing-unit / 2 + $column-gutter)});
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+
+  // No room beside the title: show the links on their own line below it.
+  // They overlay the page (rather than growing the sticky header, which would
+  // shift the content), so the rule and fade move down to below the links.
+  .header-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: $spacing-unit / 2;
+    right: $spacing-unit / 2;
+    padding-bottom: 8px;
+    line-height: $base-line-height;
+    background-color: $background-color;
+    border-bottom: 3px solid $grey-color-dark;
+
+    &::after {
+      @include fade-below;
+      top: calc(100% + 3px); // below the border, not over it
+      left: -$spacing-unit / 2;
+      right: -$spacing-unit / 2;
+    }
+  }
+
+  .site-header.show-links {
+    .header-links {
+      display: block;
+    }
+
+    .wrapper {
+      background: $background-color;
+    }
+
+    &::after {
+      display: none;
+    }
+  }
+
   .intro {
     flex-direction: column;
     align-items: center;
@@ -163,5 +285,6 @@ details summary::-webkit-details-marker {
   .intro-photo {
     flex-basis: auto;
     width: 160px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.75);
   }
 }
