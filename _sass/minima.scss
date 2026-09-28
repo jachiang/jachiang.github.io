@@ -50,6 +50,52 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
+// Theme overrides
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $base-font-weight * 1.2;
+  color: $grey-color-dark;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 2px solid $grey-color-dark;
+  min-height: 0;
+}
+
+.site-title {
+  @include relative-font-size(2.37);
+  font-weight: 390;
+  line-height: $base-line-height * $base-font-size * 3.0;
+  letter-spacing: -0.3px;
+}
+
+// The theme's nav menu has no pages to list; hide the empty menu button
+.site-nav {
+  display: none;
+}
+
+// Rule under main section headings (Research, Academic Service)
+.post-content h1 {
+  border-bottom: 1px solid $grey-color;
+  padding-bottom: 4px;
+}
+
+// Sub-headings (e.g. publication groups) smaller than section headings
+.post-content h2 {
+  @include relative-font-size(1.4);
+  margin-top: 10px;
+}
+
+// Collapsible sections: hide the default disclosure triangle
+details summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
 // Homepage: intro (photo + bio)
 .intro {
   display: flex;
@@ -72,58 +118,20 @@ $on-laptop:        800px !default;
   margin-bottom: 10px;
 }
 
-.intro-text .intro-links {
-  margin-bottom: 10px;
-}
-
 .intro-links a {
   font-weight: 600;
 }
 
-// Homepage: academic service
-.service {
-  margin-bottom: 20px;
+// Homepage: publications
+.pub {
+  padding-bottom: 15px;
 }
 
-.service summary {
-  cursor: pointer;
-  list-style: none;
-}
-
-.service summary::-webkit-details-marker {
-  display: none;
-}
-
-.service-legend {
-  padding: 8px 0 5px 0;
-}
-
-.service-grid {
-  display: grid;
-  margin-top: 8px;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 5px 10px;
-  margin-bottom: 5px;
-}
-
-details summary {
-  cursor: pointer;
-  list-style: none;
-}
-
-details summary::-webkit-details-marker {
-  display: none;
+.pub-abstract {
+  padding: 8px 0;
 }
 
 // Long author lists: short line that expands to the full list
-.authors summary {
-  list-style: none;
-}
-
-.authors summary::-webkit-details-marker {
-  display: none;
-}
-
 .authors .authors-full,
 .authors[open] .authors-short {
   display: none;
@@ -131,6 +139,15 @@ details summary::-webkit-details-marker {
 
 .authors[open] .authors-full {
   display: inline;
+}
+
+// Homepage: academic service
+.service {
+  margin-bottom: 20px;
+}
+
+.service-list {
+  margin-top: 8px;
 }
 
 @include media-query($on-palm) {
@@ -147,29 +164,4 @@ details summary::-webkit-details-marker {
     flex-basis: auto;
     width: 160px;
   }
-
-  .service-spacer {
-    display: none;
-  }
-}
-
-// The theme's nav menu has no pages to list; hide the empty menu button
-.site-nav {
-  display: none;
-}
-
-// Sub-headings (e.g. publication groups) smaller than section headings
-.post-content h2 {
-  @include relative-font-size(1.4);
-  margin-top: 10px;
-
-  @include media-query($on-laptop) {
-    @include relative-font-size(1.4);
-  }
-}
-
-// Rule under main section headings (Academic Service, Research)
-.post-content h1 {
-  border-bottom: 1px solid $grey-color;
-  padding-bottom: 4px;
 }
