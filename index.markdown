@@ -33,59 +33,6 @@ layout: page
 
 <!-- During my <a href ="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a>, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and differentially private smart contracts enabled by secure multi-party computation (MPC).  -->
 
-# Academic Service
-
-<details class="service">
-<summary>Program committees for USENIX Security, ACM CCS and Financial Cryptography (<u>show all</u>)</summary>
-
-<!-- <div class="service-legend">
-<em>PC: Program Committee</em> , <em>SR: Subreviewer</em>
-</div> -->
-
-<div class="service-grid">
-
-<p>
-  <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX'26</a>,
-  <a href="https://advfintech.org/aft25/index.html">AFT'25</a>,
-  <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>,
-  <a href="https://fc25.ifca.ai/">Financial Crypto'25</a>,
-  <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a>,
-  <a href="https://fc24.ifca.ai/">Financial Crypto'24</a>,
-  <a href="https://fc24.ifca.ai/defi/">DeFi'24</a> (FC'24),
-  <a href="https://defi.security/">DeFi'23</a> (CCS'23),
-  <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23),
-  <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23),
-  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22),
-  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22),
-  <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22)
-</p>
-
-<!-- Subreviewing (SR)
-<div>
-  <br class="service-spacer">
-  Asiacrypt'25, <em>SR</em> <br>
-  Crypto'25, <em>SR</em> <br>
-  Eurocrypt'25, <em>SR</em> <br>
-  Crypto'24, <em>SR</em> <br>
-  Eurocrypt'24, <em>SR</em> <br>
-  CANS'24, <em>SR</em> <br>
-  Eurocrypt'22, <em>SR</em> <br>
-  Asiacrypt'22, <em>SR</em> <br>
-  ACM CCS'22, <em>SR</em>
-</div>
-
-<div>
-  <u>Formal Methods</u> <br>
-  WRLA'22, <em>SR</em> <br>
-  FM'21, <em>SR</em> <br>
-  TACAS'21, <em>SR</em> <br>
-  JLAMP, Vol. 121, <em>SR</em>
-</div>
--->
-
-</div>
-</details>
-
 
 # Research
 
@@ -355,3 +302,57 @@ Full course materials from <a href="https://teachbitcoin.io/curriculum/">my cour
 
 I contributed to <a href="https://voskuil.org/cryptoeconomics/">cryptoeconomics</a> authored by Eric Voskuil.
 </div> -->
+
+
+# Academic Service
+
+<details class="service">
+<summary>Program committees for USENIX Security, ACM CCS and Financial Cryptography (<u>show all</u>)</summary>
+
+<!-- <div class="service-legend">
+<em>PC: Program Committee</em> , <em>SR: Subreviewer</em>
+</div> -->
+
+<div class="service-grid">
+
+<p>
+  <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX'26</a>,
+  <a href="https://advfintech.org/aft25/index.html">AFT'25</a>,
+  <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>,
+  <a href="https://fc25.ifca.ai/">Financial Crypto'25</a>,
+  <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a>,
+  <a href="https://fc24.ifca.ai/">Financial Crypto'24</a>,
+  <a href="https://fc24.ifca.ai/defi/">DeFi'24</a> (FC'24),
+  <a href="https://defi.security/">DeFi'23</a> (CCS'23),
+  <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23),
+  <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23),
+  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22),
+  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22),
+  <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22)
+</p>
+
+<!-- Subreviewing (SR)
+<div>
+  <br class="service-spacer">
+  Asiacrypt'25, <em>SR</em> <br>
+  Crypto'25, <em>SR</em> <br>
+  Eurocrypt'25, <em>SR</em> <br>
+  Crypto'24, <em>SR</em> <br>
+  Eurocrypt'24, <em>SR</em> <br>
+  CANS'24, <em>SR</em> <br>
+  Eurocrypt'22, <em>SR</em> <br>
+  Asiacrypt'22, <em>SR</em> <br>
+  ACM CCS'22, <em>SR</em>
+</div>
+
+<div>
+  <u>Formal Methods</u> <br>
+  WRLA'22, <em>SR</em> <br>
+  FM'21, <em>SR</em> <br>
+  TACAS'21, <em>SR</em> <br>
+  JLAMP, Vol. 121, <em>SR</em>
+</div>
+-->
+
+</div>
+</details>
