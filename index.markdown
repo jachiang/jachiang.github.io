@@ -44,22 +44,21 @@ layout: page
 
 <div class="service-grid">
 
-<div>
-  <u>Cryptography & Security</u> <br>
-    <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX'26</a> <br>
-    <a href="https://advfintech.org/aft25/index.html">AFT'25</a> <br>
-    <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a> <br>
-    <a href="https://fc25.ifca.ai/">Financial Crypto'25</a> <br>
-    <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a> <br>
-    <a href="https://fc24.ifca.ai/">Financial Crypto'24</a> <br>
-    <a href="https://fc24.ifca.ai/defi/">DeFi'24</a> (FC'24)<br>
-    <a href="https://defi.security/">DeFi'23</a> (CCS'23) <br>
-    <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23) <br>
-    <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23)<br>
-    <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22) <br>
-    <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22) <br>
-    <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22)
-</div>
+<p>
+  <a href="https://www.usenix.org/conference/usenixsecurity26">USENIX'26</a>,
+  <a href="https://advfintech.org/aft25/index.html">AFT'25</a>,
+  <a href="https://www.sigsac.org/ccs/CCS2025/">ACM CCS'25</a>,
+  <a href="https://fc25.ifca.ai/">Financial Crypto'25</a>,
+  <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS'24</a>,
+  <a href="https://fc24.ifca.ai/">Financial Crypto'24</a>,
+  <a href="https://fc24.ifca.ai/defi/">DeFi'24</a> (FC'24),
+  <a href="https://defi.security/">DeFi'23</a> (CCS'23),
+  <a href="https://deic.uab.cat/cbt/cbt2023/">CBT'23</a> (ESORICS'23),
+  <a href="https://fc23.ifca.ai/defi/">DeFi'23</a> (FC'23),
+  <a href="https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3560832">DeFi'22</a> (CCS'22),
+  <a href="https://deic.uab.cat/cbt/cbt2022/">CBT'22</a> (ESORICS'22),
+  <a href="https://fc22.ifca.ai/defi/">DeFi'22</a> (FC'22)
+</p>
 
 <!-- Subreviewing (SR)
 <div>
@@ -88,7 +87,7 @@ layout: page
 </details>
 
 
-# Papers
+# Research
 
 
 ## AI Security
@@ -119,7 +118,7 @@ layout: page
   <!-- begin: authors & venue -->
   <div style = "padding:2px 0px 0px 0px">
     <details class="authors">
-      <summary><span class="authors-short">Sarah Allen, …, James Hsin-yu Chiang, …, Fan Zhang (<u>show more</u>)</span><span class="authors-full">Sarah Allen, Pranay Anchuri, James Austgen, Maryam Bahrani, Samuel Breckenridge, Aaron Buchwald, Christian Cachin, Andrés Fábrega, Jared Fernandez, James Hsin-yu Chiang, Marwa Mouallem, Roi Bar-Zur, Neil DeSilva, Ittay Eyal, Giulia Fanti, Ari Juels, Andrew Miller, Christian Sillaber, Dani Vilardell, Pramod Viswanath, Wenhao Wang, Matt Weinberg, Sen Yang, Jianzhu Yao, Fan Zhang (<u>show fewer</u>)</span></summary>
+      <summary><span class="authors-short">Sarah Allen, …, James Hsin-yu Chiang, …, Giulia Fanti, Ari Juels, …, Fan Zhang (<u>show more</u>)</span><span class="authors-full">Sarah Allen, Pranay Anchuri, James Austgen, Maryam Bahrani, Samuel Breckenridge, Aaron Buchwald, Christian Cachin, Andrés Fábrega, Jared Fernandez, James Hsin-yu Chiang, Marwa Mouallem, Roi Bar-Zur, Neil DeSilva, Ittay Eyal, Giulia Fanti, Ari Juels, Andrew Miller, Christian Sillaber, Dani Vilardell, Pramod Viswanath, Wenhao Wang, Matt Weinberg, Sen Yang, Jianzhu Yao, Fan Zhang (<u>show fewer</u>)</span></summary>
     </details>
   </div>
 </div>
