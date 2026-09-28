@@ -12,9 +12,9 @@ layout: page
   <!-- Right column (About) -->
   <div class="intro-text">
     <p class="intro-links">
-    <a href="mailto:james.chiangwu@gmail.com">Email</a> |
     <a href="https://scholar.google.com/citations?hl=en&user=9NcawdAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> |
-    <a href="https://github.com/jachiang">GitHub</a>
+    <a href="https://www.linkedin.com/in/jameshsinyuchiang">LinkedIn</a> |
+    <a href="mailto:james.chiangwu@gmail.com">Email</a>
     </p>
 
     <p>
