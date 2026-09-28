@@ -20,7 +20,7 @@ layout: page
     </p>
 
     <p>
-    I am an Established Researcher (Oberassistent) in the <a href="https://syssec.ethz.ch/">Systems Security Group</a> at ETH Zurich, hosted by <a href="https://srdjan-capkun.com/">Srdjan Capkun</a>; previously, I was a Postdoc in the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> with <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>. I received my <a href="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> from the Technical University of Denmark in 2023.
+    I am a Senior Researcher (Oberassistent) in the <a href="https://syssec.ethz.ch/">Systems Security Group</a> at ETH Zurich, hosted by <a href="https://srdjan-capkun.com/">Srdjan Capkun</a>; previously, I was a Postdoc in the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> with <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>. I received my <a href="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> from the Technical University of Denmark in 2023.
     </p>
 
     <!-- <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a>  -->
