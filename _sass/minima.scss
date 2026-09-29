@@ -21,7 +21,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    650px !default;
+$content-width:    700px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
@@ -80,8 +80,9 @@ $column-width: unquote("min(#{$text-width + 2 * $column-padding}, calc(100% - #{
   padding-left: $column-padding;
 }
 
-// Gray page behind the content column
+// Gray page behind the content column; body text larger than the theme's base size
 body {
+  font-size: 15px;
   background-color: #e4e4e4;
 }
 
@@ -162,7 +163,7 @@ h1, h2, h3, h4, h5, h6 {
 
 // Sub-headings (e.g. publication groups) smaller than section headings
 .post-content h2 {
-  @include relative-font-size(1.4);
+  font-size: 20px;
   margin-top: 10px;
 }
 
@@ -186,7 +187,9 @@ details summary::-webkit-details-marker {
 
 .intro-photo {
   flex: 0 0 195px;
+  display: block;
   width: 195px;
+  height: auto;
   border-radius: 12px;
 }
 
@@ -197,6 +200,7 @@ details summary::-webkit-details-marker {
 
 .intro-text p {
   margin-bottom: 10px;
+  text-wrap: pretty; // avoid a lone word on the last line, where supported
 }
 
 .intro-links a {
@@ -232,10 +236,6 @@ details summary::-webkit-details-marker {
 }
 
 @include media-query($on-palm) {
-  body {
-    font-size: 15px;
-  }
-
   .wrapper {
     max-width: calc(100% - #{2 * ($spacing-unit / 2 + $column-gutter)});
     padding-right: $spacing-unit / 2;

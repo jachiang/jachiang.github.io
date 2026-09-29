@@ -1,11 +1,12 @@
 ---
 layout: page
+description: Senior Researcher (Oberassistent) in the System Security Group at ETH Zurich, working on the security of AI systems, applied cryptography and privacy-enhancing technologies.
 ---
 
 <div class="intro">
 
   <!-- Left column (Picture)-->
-  <img class="intro-photo" src="images/me2.png" alt="James Chiang">
+  <img class="intro-photo" src="images/me2.jpg" width="320" height="488" alt="James Chiang">
 
   <!-- Right column (About) -->
   <div class="intro-text">
@@ -14,21 +15,15 @@ layout: page
     </p>
 
     <p>
-    My recent research focuses on the security of AI systems. As AI moves to large-scale, distributed infrastructure, I apply cryptographic techniques to keep models and data confidential and verifiable. I am currently developing <a href="https://arxiv.org/pdf/2607.29221">confidential, distributed AI systems at scale</a>, as well as verifiable AI training pipelines. My work is grounded in cryptography and privacy-enhancing techniques, including <a href="https://eprint.iacr.org/2025/113.pdf">post-quantum cryptography</a>, applied fully homomorphic encryption and secure multi-party computation.
+    My recent research focuses on the security of AI systems. As AI moves to large-scale, distributed infrastructure, I apply cryptographic techniques to keep models and data confidential and verifiable. At ETH Zurich, I am currently developing <a href="https://arxiv.org/pdf/2607.29221">confidential, distributed AI systems at scale</a>, as well as verifiable AI training pipelines. My work is grounded in cryptography and privacy-enhancing techniques, including <a href="https://eprint.iacr.org/2025/113.pdf">post-quantum cryptography</a>, applied fully homomorphic encryption and secure multi-party computation.
     </p>
 
     <p>
-    I am a Senior Researcher (Oberassistent) in the <a href="https://syssec.ethz.ch/">Systems Security Group</a> at ETH Zurich, hosted by <a href="https://srdjan-capkun.com/">Srdjan Capkun</a>; previously, I was a Postdoc in the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> with <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>. I received my <a href="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a> from the Technical University of Denmark in 2023.
+    I am a Senior Researcher (Oberassistent) in the <a href="https://syssec.ethz.ch/">ETH System Security Group</a>, hosted by <a href="https://srdjan-capkun.github.io/">Srdjan Capkun</a>; previously, I was a Postdoc in the <a href="https://users-cs.au.dk/orlandi/cryptogroup/">Aarhus Crypto Group</a> with <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a>, after receiving my PhD from the Technical University of Denmark&nbsp;in&nbsp;2023.
     </p>
-
-    <!-- <a href="https://eturnity.com/en/">Eturnity</a>, <a href="https://www.handelszeitung.ch/unternehmen/so-teuer-war-fur-coop-und-swisscom-das-experiment-siroop">Siroop</a>  -->
-    <!-- I am native in English and (Swiss) German, advanced in Mandarin and intermediate in French. -->
   </div>
 
 </div>
-
-<!-- During my <a href="https://orbit.dtu.dk/en/publications/formal-security-and-privacy-in-cryptoeconomic-systems">PhD</a>, I studied a class of smart contract applications called Decentralized Finance and characterized their economic security properties with formal verification techniques, identifying (front-running) vulnerabilities due to a lack of privacy. In response, my collaborators and I deployed advanced cryptography to design novel protocols which deliver input fairness in the permissionless setting and differentially private smart contracts enabled by secure multi-party computation (MPC).  -->
-
 
 # Research
 
@@ -57,7 +52,7 @@ layout: page
   </details>
   <div class="pub-meta">
     <details class="authors">
-      <summary><span class="authors-short">Sarah Allen, …, James Hsin-yu Chiang, …, Giulia Fanti, Ari Juels, …, Fan Zhang (<u>show more</u>)</span><span class="authors-full">Sarah Allen, Pranay Anchuri, James Austgen, Maryam Bahrani, Samuel Breckenridge, Aaron Buchwald, Christian Cachin, Andrés Fábrega, Jared Fernandez, James Hsin-yu Chiang, Marwa Mouallem, Roi Bar-Zur, Neil DeSilva, Ittay Eyal, Giulia Fanti, Ari Juels, Andrew Miller, Christian Sillaber, Dani Vilardell, Pramod Viswanath, Wenhao Wang, Matt Weinberg, Sen Yang, Jianzhu Yao, Fan Zhang (<u>show fewer</u>)</span></summary>
+      <summary><span class="authors-short">Sarah Allen, …, James Hsin-yu Chiang, …, Giulia Fanti, Ari Juels, …, Fan Zhang</span><span class="authors-full">Sarah Allen, Pranay Anchuri, James Austgen, Maryam Bahrani, Samuel Breckenridge, Aaron Buchwald, Christian Cachin, Andrés Fábrega, Jared Fernandez, James Hsin-yu Chiang, Marwa Mouallem, Roi Bar-Zur, Neil DeSilva, Ittay Eyal, Giulia Fanti, Ari Juels, Andrew Miller, Christian Sillaber, Dani Vilardell, Pramod Viswanath, Wenhao Wang, Matt Weinberg, Sen Yang, Jianzhu Yao, Fan Zhang</span></summary>
     </details>
   </div>
 </div>
@@ -179,7 +174,7 @@ layout: page
   </div>
 </div>
 
-<div class="pub">
+<!-- <div class="pub">
   <details>
     <summary><u>SoK: Mitigation of Front-running in Decentralized Finance</u> (<a href="https://eprint.iacr.org/2021/1628">ePrint</a>)</summary>
     <div class="pub-abstract">
@@ -190,7 +185,7 @@ layout: page
     Carsten Baum, James Hsin-yu Chiang, Bernardo David, Tore Kasper Frederiksen, Lorenzo Gentile<br>
     <a href="https://fc22.ifca.ai/defi/program.html">Workshop on Decentralized Finance (FC'22)</a> (<a href="https://doi.org/10.1007/978-3-031-32415-4_17">doi</a>)
   </div>
-</div>
+</div> -->
 
 ## Formal Methods for Blockchains
 

@@ -1,6 +1,8 @@
 # Site settings
 title: James Chiang | 姜欣宇
-description: Homepage
+# Empty rather than absent: GitHub Pages otherwise fills in the repository
+# description, which the SEO tag appends to the home page title
+description: ""
 
 # Build settings
 theme: minima

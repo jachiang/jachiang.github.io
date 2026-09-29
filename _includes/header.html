@@ -16,12 +16,64 @@
       var intro = document.querySelector('.intro-links');
       if (!header || !intro) return;
 
+      // As the page scrolls, each block (intro photo, intro links, intro paragraphs,
+      // titles, paper entries) speeds up once its bottom comes within 240px of the header:
+      // up to 150px extra over 350px of scrolling (ease-in). Blocks higher up start first,
+      // so the gaps between them open as they rise, and never close into an overlap.
+      var rise = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      var content = document.querySelector('.post-content');
+      var riseDistance = 150;
+      var riseScroll = 350;
+      var riseLine = 240; // distance below the header where blocks start to rise
+
+      // Each block is a list of elements that move together
+      var blocks = [];
+      if (rise && content) {
+        [].slice.call(content.children).forEach(function (el) {
+          if (el.classList.contains('intro')) {
+            blocks.push([el.querySelector('.intro-photo')]);
+            [].slice.call(el.querySelectorAll('.intro-text > *')).forEach(function (part) {
+              blocks.push([part]);
+            });
+          } else {
+            blocks.push([el]);
+          }
+        });
+        blocks = blocks.filter(function (b) { return b.length && b[0]; });
+      }
+      var starts = [];
+
+      // Scroll position at which each block starts to rise: when its natural bottom comes
+      // within riseLine of the header. Blocks already above that line when the page opens
+      // start in turn, after scrolling most of their distance below the first block.
+      function measure() {
+        blocks.forEach(function (b) { b.forEach(function (el) { el.style.transform = ''; }); });
+        var headerBottom = header.getBoundingClientRect().bottom;
+        var startLine = headerBottom + riseLine;
+        var tops = blocks.map(function (b) {
+          return b[0].getBoundingClientRect().top + window.scrollY;
+        });
+        starts = blocks.map(function (b, k) {
+          var bottom = b[b.length - 1].getBoundingClientRect().bottom + window.scrollY;
+          return Math.max((tops[k] - tops[0]) * 0.8, bottom - startLine);
+        });
+      }
+
       function update() {
+        blocks.forEach(function (b, k) {
+          var t = Math.min(Math.max((window.scrollY - starts[k]) / riseScroll, 0), 1);
+          var transform = t ? 'translateY(' + (-riseDistance * t * t) + 'px)' : '';
+          b.forEach(function (el) { el.style.transform = transform; });
+        });
         var covered = intro.getBoundingClientRect().bottom <= header.getBoundingClientRect().bottom;
         header.classList.toggle('show-links', covered);
       }
       window.addEventListener('scroll', update, { passive: true });
-      window.addEventListener('resize', update);
+      window.addEventListener('resize', function () { measure(); update(); });
+      window.addEventListener('load', function () { measure(); update(); });
+      // Expanding an author list moves the blocks below it
+      document.addEventListener('toggle', function () { measure(); update(); }, true);
+      measure();
       update();
     });
   </script>
